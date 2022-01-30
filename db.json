@@ -1,4 +1,5 @@
 [
+{"steam_id":"null","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord:347871969657618434"},
 {"steam_id":"steam:110000136959580","xbox_id":"null","license_id":"license:c59a447da5d5428571728993f408a45ea3ba4e85","license2_id":null,"discord_id":"discord:259837445598740480"},
 {"steam_id":"steam:11000013b3e01b1","xbox_id":"xbl:2535419370450830","license_id":"license:290934979b14594202540c13c38b10138f807494","license2_id":null,"discord_id":"discord:416243797974974466"},
 {"steam_id":"steam:11000014735c6e4","xbox_id":"xbl:2535433816817478","license_id":"license:1cd302c68a3ab7e36d75a74f5713e6318b925081","license2_id":null,"discord_id":"discord:799714865589649439"},
@@ -28,23 +29,7 @@
 {"steam_id":"steam:1100001197a6567","xbox_id":"null","license_id":"license:7122087271ca946696097376243e47ec9a112974","license2_id":"license2:7122087271ca946696097376243e47ec9a112974","discord_id":"discord:264906037163720711"},
 {"steam_id":"steam:110000146d2947c","xbox_id":"null","license_id":"license:71ce10d09ed83f59262777bd0e31e2f04d72c25f","license2_id":"license2:71ce10d09ed83f59262777bd0e31e2f04d72c25f","discord_id":null},
 {"steam_id":"steam:110000118ced70a","xbox_id":"null","license_id":"license:87b113d8df50121c3124bbe367e0004a66349136","license2_id":"license2:87b113d8df50121c3124bbe367e0004a66349136","discord_id":"discord:494466079469338624"},
+{"steam_id":"steam:110000135f90e2b","xbox_id":"null","license_id":"license:04533d0ff1f4d31b9020840dc3e4fe9fb993bb52","license2_id":"license2:04533d0ff1f4d31b9020840dc3e4fe9fb993bb52","discord_id":"discord:854788028929277965"},
 {"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:759040136389459979"},
-{"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:592287137429192727"},
-{"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:925805590796718080"},
-{"steam_id":"steam:1100001488e7189","xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:913153825223868466"},
-{"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:919531121002299453"},
-{"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:472050305928921088"},
-{"steam_id":"steam:11000011d3add0f","xbox_id":"null","license_id":"license2:674ea5bd2aba58ff667c4ad3be5a92864c78b302","license2_id":null,"discord_id":"discord:504695285369274399"},
-{"steam_id":"steam:11000013c8692de","xbox_id":"xbl:2535435883654147","license_id":"license2:7c5409d8d98d9793123277ddffc38b0bc6e417b3","license2_id":null,"discord_id":"discord:673483247321219088"},
-{"steam_id":"null","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord:691589193855402025"},
-{"steam_id":"null","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord:881784549456105492"},
-{"steam_id":"null","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord:645579115000365056"},
-{"steam_id":"null","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord:523212261704335364"},
-{"steam_id":"null","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord:513042024459534337"},
-{"steam_id":"null","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord:926316777670070274"},
-{"steam_id":"steam:1100001079f52e6","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord":"null"},
-{"steam_id":"steam:110000101345d09","xbox_id":"null","license_id":"null","license2_id":null,"discord_id":"discord":"null"},
-{"steam_id":"steam:11000011197bf74","xbox_id":"null","license_id":"null","license2_id":"license2:e04d62efd383911381a148157bb9bd5c16e63ca5","discord_id":"null":"null"},
-  {"steam_id":"steam:1100001400f87ed","xbox_id":"null","license_id":"null","license2_id":"license2:a50337f7e47ccfa675e584168d8e7786af4d140c","discord_id":"null":"null"},
-  {"steam_id":"steam:11000013e849b35","xbox_id":"null","license_id":"null","license2_id":"license2:64b91ceed0766d8caf7d1b24f3c517a9821dc6e2","discord_id":"null":"null"}
+{"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:592287137429192727"}
 ]
