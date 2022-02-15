@@ -30,5 +30,6 @@
 {"steam_id":"steam:110000146d2947c","xbox_id":"null","license_id":"license:71ce10d09ed83f59262777bd0e31e2f04d72c25f","license2_id":"license2:71ce10d09ed83f59262777bd0e31e2f04d72c25f","discord_id":null},
 {"steam_id":"steam:110000118ced70a","xbox_id":"null","license_id":"license:87b113d8df50121c3124bbe367e0004a66349136","license2_id":"license2:87b113d8df50121c3124bbe367e0004a66349136","discord_id":"discord:494466079469338624"},
 {"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:759040136389459979"},
-{"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:592287137429192727"}
+{"steam_id":null,"xbox_id":"null","license_id":null,"license2_id":null,"discord_id":"discord:592287137429192727"},
+{"steam_id":"steam:110000135f90e2b","xbox_id":"xbl:2535450524907268","license_id":null,"license2_id":"license2:df81310675953539620fc28113340866679274ec","discord_id":"discord:854788028929277965"}
 ]
