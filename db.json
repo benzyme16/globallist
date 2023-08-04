@@ -1463,13 +1463,6 @@
       "discord_id": "discord:1063884818053603358"
     },
             {
-      "steam_id": "steam:11000013ed6f9e7",
-      "xbox_id": "null",
-      "license_id": "license:540227abdb91a4b6318b411322212abee8c2000e",
-      "license2_id": null,
-      "discord_id": "discord:351079749331976203"
-    },
-            {
       "steam_id": "steam:11000015bba2a97",
       "xbox_id": "null",
       "license_id": "license:c9bd627f6bb61efb5f92c922d8efa8e80d65030d",
@@ -1713,5 +1706,117 @@
       "license_id": "license:891aa80cf730b0390128bcdc4b66e27b4c053b49",
       "license2_id": null,
       "discord_id": "discord:353205186732490755"
+    },
+            {
+      "steam_id": "steam:11000013817ad98",
+      "xbox_id": "null",
+      "license_id": "license:bde6e9ff50622b76c216fab00059c9a21fcafeb0",
+      "license2_id": null,
+      "discord_id": "discord:802953718999416873"
+    },
+            {
+      "steam_id": "steam:11000011c039c79",
+      "xbox_id": "null",
+      "license_id": "license:c61a099575b7572aed65d531015cd9f4446ced67",
+      "license2_id": null,
+      "discord_id": "discord:1012965633463435345"
+    },
+            {
+      "steam_id": "steam:11000014d12f957",
+      "xbox_id": "null",
+      "license_id": "license:746006c867f9b04f6766b4e7e4921f49b2d60b8c",
+      "license2_id": null,
+      "discord_id": "discord:951032210515959838"
+    },
+            {
+      "steam_id": "steam:11000015ac84b20",
+      "xbox_id": "null",
+      "license_id": "license:d593c0d5d435ce4b8d3c4349539a44ace457fa8e",
+      "license2_id": null,
+      "discord_id": "discord:909081897588629574"
+    },
+            {
+      "steam_id": "steam:1100001468cadbc",
+      "xbox_id": "null",
+      "license_id": "license:e7d3c2c76408286eaeef3f7d25515f60c3cce572",
+      "license2_id": null,
+      "discord_id": "discord:933286538136154132"
+    },
+            {
+      "steam_id": "steam:110000136674248",
+      "xbox_id": "null",
+      "license_id": "license:fadc4a189dd1d8218e6f1fe199033a499606b699",
+      "license2_id": null,
+      "discord_id": "discord:1023666045099180083"
+    },
+            {
+      "steam_id": "steam:1100001437f48ba",
+      "xbox_id": "null",
+      "license_id": "license:04f13346dbb135416cdcd69eccdaa290d87755b5",
+      "license2_id": null,
+      "discord_id": "discord:1041753573354123356"
+    },
+            {
+      "steam_id": "steam:110000154c43825",
+      "xbox_id": "null",
+      "license_id": "license:79de3c783ff88fd80f2eaf794c9843dfd2334705",
+      "license2_id": null,
+      "discord_id": "discord:1127243681804595250"
+    },
+            {
+      "steam_id": "steam:11000010c82cdea",
+      "xbox_id": "null",
+      "license_id": "license:9f80576aa71caaa9f355930862d10ab277d5e046",
+      "license2_id": null,
+      "discord_id": "discord:963095997834227762"
+    },
+            {
+      "steam_id": "steam:11000015d6dc462",
+      "xbox_id": "null",
+      "license_id": "license:4c7151dcb1c8119ff61eaa67c201dca961e1d4a6",
+      "license2_id": null,
+      "discord_id": "discord:1064895553177137253"
+    },
+            {
+      "steam_id": "steam:1100001187c9ee7",
+      "xbox_id": "null",
+      "license_id": "license:fc1c6ad59c2e2f90654cb1b7176abfb5ba4093a5",
+      "license2_id": null,
+      "discord_id": "discord:786625237944893481"
+    },
+            {
+      "steam_id": "steam:110000147d989ab",
+      "xbox_id": "null",
+      "license_id": "license:75c2d811b9dd1c8fa2572f6bbb3b6ad3e7f98cca",
+      "license2_id": null,
+      "discord_id": "discord:657228940900827146"
+    },
+            {
+      "steam_id": "steam:110000134bc2ac9",
+      "xbox_id": "null",
+      "license_id": "license:2a7541a88738b1fb345d523b0770529e86d966db",
+      "license2_id": null,
+      "discord_id": "discord:957057873647640606"
+    },
+            {
+      "steam_id": "steam:11000015c3233ae",
+      "xbox_id": "null",
+      "license_id": "license:5629d0ff085064f224323676326971175f637272",
+      "license2_id": null,
+      "discord_id": "discord:1136005734962835536"
+    },
+            {
+      "steam_id": "steam:11000014bc78d41",
+      "xbox_id": "null",
+      "license_id": "license:b0207cc8571a0a434cb354e3f813f586465c02a6",
+      "license2_id": null,
+      "discord_id": "discord:927278902605398046"
+    },
+            {
+      "steam_id": "steam:1100001117faf3e",
+      "xbox_id": "null",
+      "license_id": "license:5a3ab06ea1bff8237e5c6ff5b4212331975dcb20",
+      "license2_id": null,
+      "discord_id": "discord:852619506252513362"
     }
 ]
