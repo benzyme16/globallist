@@ -2428,11 +2428,10 @@
           "audioDevices": [
             " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
             " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
-            " - Headset Microphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
             " - Headset Microphone (2- HyperX Virtual Surround Sound) (03f0:0b92)"
           ],
       "OSY": "Windows",
-      "fonts": "88",
+      "fonts": "89",
       "heapSize": "3760000000"
     }
 ]
