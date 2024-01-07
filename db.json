@@ -2412,7 +2412,7 @@
       "fivem": "fivem:10719798",
       "reason": "Aimbot (Reviewed from video) [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1192122915504795699/screen-recording.webm)"
     },
-                                    {
+                                {
       "steam_id": "steam:1100006343",
       "xbox_id": "xbl:253643012",
       "license_id": "license:0af8d436181a5100aed0b28241cf",
@@ -2420,8 +2420,10 @@
       "discord_id": "discord:1051436434153",
       "fivem": "fivem:10346",
       "reason": "Aimbot (Reviewed from video) [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1192122915504795699/screen-recording.webm)",
+      "MachineID": "nothing",
       "gpuName": "NVIDIA, NVIDIA GeForce RTX 2070",
       "resolution": "1920x1080",
+      "deviceMemory": "8",
       "timezone": "Europe/Berlin(-60)",
       "cpuThreads": "6",
           "audioDevices": [
