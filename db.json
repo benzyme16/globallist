@@ -2411,5 +2411,28 @@
       "discord_id": "discord:1051485126867034153",
       "fivem": "fivem:10719798",
       "reason": "Aimbot (Reviewed from video) [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1192122915504795699/screen-recording.webm)"
+    },
+                                    {
+      "steam_id": "steam:1100006343",
+      "xbox_id": "xbl:253643012",
+      "license_id": "license:0af8d436181a5100aed0b28241cf",
+      "license2_id": null,
+      "discord_id": "discord:1051436434153",
+      "fivem": "fivem:10346",
+      "reason": "Aimbot (Reviewed from video) [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1192122915504795699/screen-recording.webm)",
+      "gpuName": "NVIDIA, NVIDIA GeForce RTX 2070",
+      "resolution": "1920x1080",
+      "deviceMemory": "8",
+      "timezone": "Europe/Berlin(-60)",
+      "cpuThreads": "6",
+          "audioDevices": [
+            " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
+            " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
+            " - Headset Microphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
+            " - Headset Microphone (2- HyperX Virtual Surround Sound) (03f0:0b92)"
+          ],
+      "OSY": "Windows",
+      "fonts": "89",
+      "heapSize": "3760000000"
     }
 ]
