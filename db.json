@@ -2425,8 +2425,11 @@
       "deviceMemory": "8",
       "timezone": "Europe/Berlin(-60)",
       "cpuThreads": "6",
-      "audioDevices": " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
+      "audioDevices": [
+        " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)"
+      ],
       "OSY": "Windows",
-      "fonts": "89"
+      "fonts": "89",
+      "heapSize": "3760000000"
     }
 ]
