@@ -2420,20 +2420,5 @@
       "discord_id": "discord:1051436434153",
       "fivem": "fivem:10346",
       "reason": "Aimbot (Reviewed from video) [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1192122915504795699/screen-recording.webm)",
-      "MachineID": "nothing",
-      "gpuName": "NVIDIA, NVIDIA GeForce RTX 2070",
-      "resolution": "1920x1080",
-      "deviceMemory": "8",
-      "timezone": "Europe/Berlin(-60)",
-      "cpuThreads": "6",
-          "audioDevices": [
-            " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
-            " - Headset Earphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
-            " - Headset Microphone (2- HyperX Virtual Surround Sound) (03f0:0b92)",
-            "- Headset Microphone (2- HyperX Virtual Surround Sound) (03f0:0b92)"
-          ],
-      "OSY": "Windows",
-      "fonts": "89",
-      "heapSize": "3760000000"
-    }
+      "MachineID": "8587c864-b296-400e-8955-593ec3ba52a8"
 ]
