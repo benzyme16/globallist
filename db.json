@@ -2566,5 +2566,77 @@
       "MachineID": "65c84113-faa2-4b69-b95c-a4c968dfb3a0",
       "reason": "Internal Cheat without block input",
       "discord": "discord:1192839122914656297"
-    }
+    },
+    {
+  "steam": null,
+  "xbox": null,
+  "license": "license:3c3f7ac0486b8942fb1cd9d28dadfa52fa11b611",
+  "fivem": null,
+  "MachineID": "c304c996-e0d9-4a04-920a-cf447ecc0290",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194005102143484075/screen-recording.webm)",
+  "discord": "discord:399867056763174912"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:71a4767034716a3e3f4dccbec15e0c6c8ba7ff2d",
+  "fivem": null,
+  "MachineID": "3ee41e4b-11d5-4b6e-bc62-0e685a8f057a",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194007297953894482/screen-recording.webm)",
+  "discord": "discord:1066027025367834695"
+},
+{
+  "steam": null,
+  "xbox": "xbox:2535460463811497",
+  "license": "license:5a738a6f2e4c03fa55f36a3673c3a8a4171404ba",
+  "fivem": "fivem:8000806",
+  "MachineID": "2c47e107-63b6-4138-856a-6b05529997db",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194016628866813972/screen-recording.webm)",
+  "discord": "discord:991076637376409661"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:3c3f7ac0486b8942fb1cd9d28dadfa52fa11b611",
+  "fivem": null,
+  "MachineID": "c304c996-e0d9-4a04-920a-cf447ecc0290",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194041109886795836/screen-recording.webm)",
+  "discord": "discord:399867056763174912"
+},
+{
+  "steam": null,
+  "xbox": "xbox:2535446694410987",
+  "license": "license:9c13d70ba0c0f75d7fd60f4a3a1c6e491d0f9d3c",
+  "fivem": "fivem:9457344",
+  "MachineID": "d9c607a6-20f4-4526-9795-b9c1ced3328b",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194084322391621652/screen-recording.webm)",
+  "discord": "discord:732173988603625542"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:8862fe2c1f674a7346d6a41e34ab7b0c313454a0",
+  "fivem": "fivem:11484826",
+  "MachineID": "8ea387e1-fec1-439d-b07b-a08a6be7c13f",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194093994536345631/screen-recording.webm)",
+  "discord": "discord:787731417118670884"
+},
+{
+  "steam": null,
+  "xbox": "xbox:2535436611077502",
+  "license": "license:e2cb7ca0931c7f958d6bc655b8cbad92f32d4b6e",
+  "fivem": null,
+  "MachineID": "a1a44528-7ba7-4f06-913f-61d2edade66e",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194240777346359306/screen-recording.webm)",
+  "discord": "discord:1004625981992095824"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:764d89f4b8487d51d5085e5bc95696113c18c72c",
+  "fivem": null,
+  "MachineID": "e5e9838e-33b1-448b-a038-da40b27a587b",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194601247781703762/screen-recording.webm)",
+  "discord": "discord:782590429195534346"
+}
 ]
