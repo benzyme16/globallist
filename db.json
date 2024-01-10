@@ -2647,5 +2647,14 @@
   "MachineID": "713642ec-c567-4957-8aab-8ad99d996963",
   "discord": "discord:733392790213623898",
   "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1194646486189887620/screen-recording.webm)"
+},
+    {
+  "steam": null,
+  "xbox": null,
+  "license": "license:c46e03a6845701b0d6976ea37855b42b078af92b",
+  "fivem": null,
+  "MachineID": "502d71ef-1933-46ff-be90-023a80d4e164",
+  "discord": "discord:1104825682594377789",
+  "reason": "Move Cheat Detected"
 }
 ]
