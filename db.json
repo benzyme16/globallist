@@ -2557,5 +2557,14 @@
       "fivem": null,
       "MachineID": "4a138442-3a1c-4c0f-9830-858591c9b1a5",
       "reason": "Internal Cheat and triggering events"
+    },
+                                {
+      "steam": "steam:110000161d68f12",
+      "xbox": null,
+      "license": "license:266deaa9254a3e35bbe37125d8a8bfd70a1827f0",
+      "fivem": null,
+      "MachineID": "65c84113-faa2-4b69-b95c-a4c968dfb3a0",
+      "reason": "Internal Cheat without block input",
+      "discord": "discord:1192839122914656297"
     }
 ]
