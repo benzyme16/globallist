@@ -2548,5 +2548,14 @@
       "fivem": null,
       "reason": "Blacklisted Clipboard Text: TriggerServerEvent('srp_jobs:diving:addItem','weapon_pistol50',1)",
       "MachineID": "cd5f36ed-acf6-4057-9123-0a382ff461b1"
+    },
+                                {
+      "steam": "steam:11000010000fd3e",
+      "xbox": null,
+      "license": "license:575fcacf344aca047207544fae9e7a91341c20fb",
+      "discord": null,
+      "fivem": null,
+      "MachineID": "4a138442-3a1c-4c0f-9830-858591c9b1a5",
+      "reason": "Internal Cheat and triggering events"
     }
 ]
