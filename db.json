@@ -2681,7 +2681,6 @@
   "license": "license:12bb487f1ed9f8c7368c76b235393a4a31c8b802",
   "fivem": "fivem:12916467",
   "MachineID": "c98b0e12-f856-48f4-8a53-b57701fa091e",
-  "VisitorID": "fa6569ea895fc2d2be6b290244da4e3c",
   "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1195095160049127542/screen-recording.webm)",
   "discord": "discord:1044326411143487570"
 },
@@ -2691,7 +2690,6 @@
   "license": "license:b313fc2c8b96f25d3ec669f5ec1c9435f9d0bcc7",
   "fivem": "fivem:11315103",
   "MachineID": "756ae46a-e045-4e74-8b0b-e4bfc0f78bb6",
-  "VisitorID": "50b895e6fd22eac70d4303db17234154",
   "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1195409022304669848/screen-recording.webm)",
   "discord": "discord:1105128552774512710"
 },
@@ -2701,7 +2699,6 @@
   "license": "license:df421661e13468a381a780a43fbfabee238745b3",
   "fivem": "fivem:12820486",
   "MachineID": "22b2b5c9-f47b-48ce-9646-7bbcf6b1103c",
-  "VisitorID": "2bb48b1254f6307d2d50d31101d73d88",
   "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1188419389716967425/1195458916260261978/screen-recording.webm)",
   "discord": "discord:915300038664671262"
 },
@@ -2720,7 +2717,6 @@
   "license": "license:8c3cc667fbb53c329ec6783591ec4623f25aa1dc",
   "fivem": null,
   "MachineID": "6145ec3f-50cd-480a-99eb-b9a555baaf6f",
-  "VisitorID": "78a4b840a309027e04977d9aed25d661",
   "reason": "Tried to inject a premium menu with RedENGINE (1)",
   "discord": "discord:970083883611746335"
 },
@@ -2748,7 +2744,6 @@
   "license": "license:c0c48f2182a54553ce27e31e17a0a4ee0f493bd3",
   "fivem": null,
   "MachineID": "c186c367-236e-4fc0-b993-f75ca0270670",
-  "VisitorID": "3940c33a9b08f7335832b6f4960c860f",
   "reason": "Tried to inject a premium menu with RedENGINE (1)",
   "discord": "discord:642481277706174464"
 },
@@ -2758,7 +2753,6 @@
   "license": "license:b8d5abcbb2614ad6994cec3e918b81cbf432cfaa",
   "fivem": null,
   "MachineID": "b3684629-3548-4a8b-a83c-befed7b66201",
-  "VisitorID": "2db08894b6d4b48d87d85b59a2f60e35",
   "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
   "discord": "discord:997585519338848307"
 },
@@ -2768,7 +2762,6 @@
   "license": "license:821d155e1448e23fdfb1f6877b6cfaad6a121dd7",
   "fivem": null,
   "MachineID": "3391e77a-cccb-42eb-91f8-680b79120724",
-  "VisitorID": "832770ccf527334829e0225bf057e5bd",
   "reason": "Move Cheat Detected",
   "discord": "discord:866373553368203274"
 },
@@ -2778,7 +2771,6 @@
   "license": "license:1a0d254808cab2c33dc82bbf9027326eea92c713",
   "fivem": null,
   "MachineID": "4d5d9f18-70e6-414c-8e5f-c80f6101534b",
-  "VisitorID": "3c7aae03d1bca9f4aba1a4b5a52b8aa9",
   "reason": "Cheat Detected: AI (3)",
   "discord": "discord:469502292505133076"
 },
@@ -2788,7 +2780,6 @@
   "license": "license:c81ca6779ef8a58eebeaf7e73e74beb0b045d0ec",
   "fivem": null,
   "MachineID": "0d8d1108-f1f9-4373-8a27-abcab42ec4fe",
-  "VisitorID": "274dfedf10ddf6a21ff057b80442f454",
   "reason": "Cheat Detected: AI (3)",
   "discord": "discord:609813669487968258"
 },
@@ -2824,7 +2815,6 @@
   "license": "license:a5a2647c699ee61d9c756c564fec28824f4f388b",
   "fivem": null,
   "MachineID": "916f14ef-e43a-4472-818e-9a3ce72dc0c6",
-  "VisitorID": "635fc69c37f4c71e3796a8e0d7b5048b",
   "reason": "Internal Cheat Detected: Eulen",
   "discord": "discord:555134055901823016"
 },
@@ -2850,7 +2840,6 @@
   "license": "license:03f9341f6961055808227a07aed76bc02d96e953",
   "fivem": null,
   "MachineID": "7740b615-1ef5-4614-ba6a-81362dc6952a",
-  "VisitorID": "b1583d81e81f5629e1f58dd56e29dea4",
   "reason": "Move Cheat Detected",
   "discord": "discord:1188567793000521772"
 },
@@ -2895,7 +2884,6 @@
   "license": "license:b1e08fd6d37a3f0e926bd7ca83ad47ca2bc9e717",
   "fivem": null,
   "MachineID": "0b4b8d20-748c-4917-97d1-883126744408",
-  "VisitorID": "56764de7e2fadf4df56c66127fd254e0",
   "reason": "Move Cheat Detected",
   "discord": "discord:852259606872195082"
 },
@@ -2914,7 +2902,6 @@
   "license": "license:7465a0fed00ad032e639d974504ee998a273af3a",
   "fivem": null,
   "MachineID": "fe222fd4-446f-4b7c-b866-55e6666c6cc7",
-  "VisitorID": "cf214d75ea61963df2a621bc0ecbee56",
   "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
   "discord": "discord:709411006702682185"
 },
@@ -2932,7 +2919,6 @@
   "license": "license:2e75a8c318ab990a11438bbee6897405f84ff56d",
   "fivem": null,
   "MachineID": "185f6e15-9216-478d-8933-7bfd3a432917",
-  "VisitorID": "ab7f48c5533f86195bd7e09c0faea482",
   "reason": "Ai Modification Detected: Hitbox Modified (2)",
   "discord": "discord:918944882368839740"
 },
@@ -2960,7 +2946,6 @@
   "license": "license:dc1501cc80e982fb5f35f1b849cefa269a5b049e",
   "fivem": null,
   "MachineID": "1d4bf57d-d3f2-4ea5-bd77-f4d0748ea81d",
-  "VisitorID": "7f098a581f9525156868d35142486e96",
   "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
   "discord": "discord:1043260340269502565"
 },
@@ -2978,7 +2963,6 @@
   "license": "license:d584859ac1c6d5a024e194805e8631ba8d98e607",
   "fivem": null,
   "MachineID": "cb9b7416-e44c-45a9-b591-24b3bc29445d",
-  "VisitorID": "ae27afd3a33ff141f29a98ca9f157b86",
   "reason": "Move Cheat Detected",
   "discord": "discord:539433083829616667"
 },
@@ -2988,7 +2972,6 @@
   "license": "license:9c0d256e102183aad235872cf1cc7421ac94af43",
   "fivem": null,
   "MachineID": "58b7f23a-bfaf-4bf6-8c90-2cd0f275fe2b",
-  "VisitorID": "3b685fc51fc9fa02c811a69138f3521d",
   "reason": "Menu Detected: Dopamine",
   "discord": "discord:743493934147436574"
 },
@@ -3042,7 +3025,6 @@
   "license": "license:df21a95be5ea53a637b92b4191006ca44868866c",
   "fivem": null,
   "MachineID": "9a219494-66e8-4ffc-95e9-e671bf71852d",
-  "VisitorID": "31d69d4f33421abc95d33a0fd96703a1",
   "reason": "AI Detected Word: menu settings",
   "discord": "discord:378569851045806080"
 },
@@ -3052,7 +3034,6 @@
   "license": "license:b69d707416b3a1eb705b110bb7da5ca9d27bc544",
   "fivem": null,
   "MachineID": "3d69c080-42c5-4c28-b8b8-cef4e21a2ada",
-  "VisitorID": "cb34e694e8e9a54959c52354c78dd6bb",
   "reason": "AI Detected Word: tiago menu",
   "discord": "discord:176720851138248704"
 },
@@ -3070,7 +3051,6 @@
   "license": "license:9a7ea0afa9ebc172340af4881f45d277eaaaa714",
   "fivem": null,
   "MachineID": "863c88d0-8f31-4a4f-9e62-f742ae3ac09b",
-  "VisitorID": "4689d791625767337112ef607270cee2",
   "reason": "AI Detected Word: self options",
   "discord": "discord:659450658394603530"
 },
@@ -3080,7 +3060,6 @@
   "license": "license:84c55b22027e3894ae851ad8d5f32e89058e8dc6",
   "fivem": null,
   "MachineID": "a500932e-cf31-4113-93ef-dd2282189c86",
-  "VisitorID": "46b210b6458ac36e18e63d2b15e5ba53",
   "reason": "Blacklisted Clipboard Text: TriggerServerEvent('truckerfuel:success',100000000)",
   "discord": "discord:672495487861129252"
 },
@@ -3090,7 +3069,6 @@
   "license": "license:ff424767e4c8d3457f437747f3a39bba040c65bb",
   "fivem": null,
   "MachineID": "5a5d33e4-2ef6-43d5-9820-7a022c948dca",
-  "VisitorID": "5604fdc1dbd0c875bf0c6ac9958ef4ea",
   "reason": "Cheat Detected: AI (1)",
   "discord": null
 },
@@ -3109,7 +3087,6 @@
   "license": "license:aa8d90766f8367fefbbcaf3b269a03e402739eaa",
   "fivem": null,
   "MachineID": "948fb4b3-64cf-456a-8a42-ea4983f320b0",
-  "VisitorID": "8134bdf7d4103fc1e55ce0dba937e4e0",
   "reason": "Tried to inject lua code with RedENGINE (2)",
   "discord": "discord:874281555923709982"
 },
@@ -3119,7 +3096,6 @@
   "license": "license:e8cce682d2e3323216e2e2f1498707c28539a907",
   "fivem": null,
   "MachineID": "15c494c8-7068-4709-bdd8-bc1ab2d4af7b",
-  "VisitorID": "7834f3f9390c1b1fe074ca67a4f155bf",
   "reason": "Menu Detected: Dopamine",
   "discord": "discord:1068086036674121798"
 },
@@ -3165,7 +3141,6 @@
   "license": "license:d11707a7cb40d5fc2a30c9396f7b541889e88e05",
   "fivem": null,
   "MachineID": "745d7271-42ac-4ded-b6b7-9666622d516b",
-  "VisitorID": "3e4b5475ebbcc955735a3c1b34ddcce1",
   "reason": "No Reload Detected",
   "discord": "discord:416912116415594496"
 },
@@ -3219,7 +3194,6 @@
   "license": "license:a0f803a6c4f9a30574784d34070098108a6abd80",
   "fivem": null,
   "MachineID": "e995de6a-dc08-46b6-86af-a157f6f2e0f3",
-  "VisitorID": "45e0b8da79764a323ac5be7c883c17d7",
   "reason": "No Reload Detected",
   "discord": "discord:522786939150008336"
 },
@@ -3229,7 +3203,6 @@
   "license": "license:0df510b9545a516253823829253d2aab078a7529",
   "fivem": null,
   "MachineID": "f139e59c-deed-4204-9876-16ca6ade0d4e",
-  "VisitorID": "0c1bcbca5a3b679b41736dd4558f1729",
   "reason": "AI Detected Word: self options",
   "discord": "discord:535415109032345601"
 },
@@ -3248,7 +3221,6 @@
   "license": "license:34c64f1e744f0ddcb4c2241899eb64fc8826fc56",
   "fivem": null,
   "MachineID": "3ad42e5e-1638-43db-9587-0136f38bcbc2",
-  "VisitorID": "178f3e805b0c35e71138f99a49b24ff8",
   "reason": "Tried to inject lua code with RedENGINE (2)",
   "discord": "discord:974392500766769162"
 },
@@ -3276,7 +3248,6 @@
   "license": "license:aae479fadc451444b6ff8f6dd960d6604e468bf0",
   "fivem": null,
   "MachineID": "3baa7ced-9763-4dd1-a4b3-0ff9d2cd49ce",
-  "VisitorID": "6f1f9ff0638efefaf68c72a3158caa82",
   "reason": "Tried to inject a premium menu with RedENGINE (1)",
   "discord": "discord:1094272073905488012"
 },
@@ -3286,7 +3257,6 @@
   "license": "license:212c3b27e903a8f8a695f89ccfef7040a4c2d20b",
   "fivem": null,
   "MachineID": "8021c3ce-e758-408c-bad9-ac061be91b0f",
-  "VisitorID": "0516e2dcd31d52807ed0843d290a17d3",
   "reason": "Internal Cheat Detected: Eulen",
   "discord": "discord:513681049759514624"
 },
@@ -3296,7 +3266,6 @@
   "license": "license:494b621640743db23c57532a4f33150832e62301",
   "fivem": null,
   "MachineID": "5bf9d9c2-45d2-47bb-81e1-1509a6a93d09",
-  "VisitorID": "985c3626e1ec04fff007e84215935282",
   "reason": "Internal Cheat Detected: Eulen",
   "discord": "discord:663440742894796811"
 },
@@ -3324,7 +3293,6 @@
   "license": "license:a8a53e1768db21a9db98cbf6548bc549d6fadfb5",
   "fivem": null,
   "MachineID": "5cd28fe4-2710-45a8-a2ea-2127dd092706",
-  "VisitorID": "76ccd26e94c4d3de687cf8d88da322e9",
   "reason": "Ai Modification Detected: Damage Modifier: 20.0/1.0",
   "discord": "discord:836284726141648966"
 },
@@ -3352,7 +3320,6 @@
   "license": "license:3b967d87ff350e5e28b12202800fe3abc57dbeef",
   "fivem": null,
   "MachineID": "f3b4b870-385c-42cd-8f79-5c1efdb8c7eb",
-  "VisitorID": "2e0de4e6ae0a306c53d088fca4a3e92b",
   "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
   "discord": "discord:1131691220154986656"
 },
@@ -3380,7 +3347,6 @@
   "license": "license:d176de85c79629d0b37925e1a65f93297d9f9bfa",
   "fivem": null,
   "MachineID": "45651a06-5bb7-4dd9-987c-7bebbbfb67f3",
-  "VisitorID": "e052a9f7cc7eef1041e823004ab53408",
   "reason": "Ai Modification Detected: Hitbox Modified (XL)",
   "discord": "discord:420274236960145409"
 },
@@ -3399,7 +3365,6 @@
   "license": "license:6025317b0d6ed67b39adc445c33bb58476f2ea00",
   "fivem": null,
   "MachineID": "915775e8-800a-4326-958d-dd2df1dba37d",
-  "VisitorID": "17466087767815c9b2a64eaae04ce2fb",
   "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
   "discord": "discord:828158780847161364"
 },
@@ -3462,7 +3427,6 @@
   "license": "license:1b45b38d080a889bc8e6354c3aeff0b153d130ed",
   "fivem": null,
   "MachineID": "a76c4ca9-b25c-4f37-8af6-4da84e3ecff7",
-  "VisitorID": "e53dc9a2f2ea66c5b09394c05d63f3c1",
   "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
   "discord": "discord:772861082388660254"
 },
@@ -3472,7 +3436,6 @@
   "license": "license:f19bb77d5cf806bfc9c007b15ac9117834c0625b",
   "fivem": null,
   "MachineID": "d535ed5e-9a8b-4525-bbd8-0b3cfddda89b",
-  "VisitorID": "e2b29a0c0c6ca4fb5d5c7ddad8f8ce97",
   "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
   "discord": "discord:934901273680048202"
 },
@@ -3499,7 +3462,6 @@
   "license": "license:60c192aa51979cdc37b7eb7a970196859aebc8ba",
   "fivem": null,
   "MachineID": "b113f60b-5f39-4ce8-aa0b-e413acc96e0f",
-  "VisitorID": "a6356e39a2e9cfe9aceabd3a82eddbfa",
   "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
   "discord": "discord:977241182570700841"
 },
@@ -3509,7 +3471,6 @@
   "license": "license:494e8abfc89a5f1ac57790974019358750fe1440",
   "fivem": null,
   "MachineID": "61575184-a955-4fdf-bc47-5c545added61",
-  "VisitorID": "aa16924fb62c2733dd29f0634d0dacf8",
   "reason": "Tried to damage without holding a weapon (Spawned Weapon)",
   "discord": "discord:705061011459145728"
 },
@@ -3519,7 +3480,6 @@
   "license": "license:85594e3baaec9c118d64c1d21d5ca3f0a4b67bff",
   "fivem": null,
   "MachineID": "722da94f-1099-49d0-b2c9-0f957357a134",
-  "VisitorID": "f4d1ebedb7adca25217418648ee7e82f",
   "reason": "AI Detected Word: samppimafia",
   "discord": "discord:400349501027516437"
 },
@@ -3538,7 +3498,6 @@
   "license": "license:9b3e2d1a6f009e3fdd65c3b0a5015498ed801919",
   "fivem": null,
   "MachineID": "6b759280-8ab7-41ff-865e-74e41f69aeca",
-  "VisitorID": "8430554834a9571350aa13c9995b77a5",
   "reason": "Ai Modification Detected: Silent Aim (Hitbox)",
   "discord": "discord:853607510237118518"
 },
@@ -3600,7 +3559,6 @@
   "license": "license:673cfcdd7df4b91f20ac9a8fb262add4a95bbbc8",
   "fivem": null,
   "MachineID": "8b515e71-636b-41b6-acd9-cfdd2bf0b237",
-  "VisitorID": "5435d4f7d91661bccbc03f661d4b40df",
   "reason": "No Reload Detected",
   "discord": "discord:934718079626260500"
 },
@@ -3688,7 +3646,6 @@
   "license": "license:c196bc035874a0793f8c1d7c0dc7ba8e6f45c059",
   "fivem": null,
   "MachineID": "59606953-8df5-43f4-acda-0d6b65d8c43d",
-  "VisitorID": "3e02515eca04bcc8297d8282051cae76",
   "reason": "Cheat Detected: AI (2)",
   "discord": "discord:418472508602449931"
 },
@@ -3707,7 +3664,6 @@
   "license": "license:9e647da5d72247df5ed215aaa5c84afa5be2652e",
   "fivem": null,
   "MachineID": "64981e36-e483-4e88-98a4-246f012bf62f",
-  "VisitorID": "eba019490f1fe4344d9e774bf2a2ae5f",
   "reason": "Cheat Detected: AI (1)",
   "discord": "discord:155742811071840256"
 },
@@ -3717,7 +3673,6 @@
   "license": "license:e342ba8dcf0ef99ae4b8ff804930131f356aff1b",
   "fivem": null,
   "MachineID": "587ecae8-2cdc-4ca9-8498-24a073ff9190",
-  "VisitorID": "33d1ea109ab9b1051426a7802db7ee2f",
   "reason": "Move Cheat Detected",
   "discord": "discord:703169796010934338"
 },
@@ -3763,7 +3718,6 @@
   "license": "license:f808dd05e8ca732a0589e2b32c23947cf1a921f6",
   "fivem": null,
   "MachineID": "384c6413-d1a9-4825-aecf-92950ab20ba5",
-  "VisitorID": "ca89908e7157172991642af0c70113d0",
   "reason": "Internal Cheat Detected: Eulen",
   "discord": "discord:513351858258182164"
 },
@@ -3773,7 +3727,6 @@
   "license": "license:6871ee3b167b77d106652f26503b34200e09b737",
   "fivem": null,
   "MachineID": "25ae5ae6-a216-4050-9cad-6c95efd0d7e7",
-  "VisitorID": "914c22af155f3c4d524b989747a61e81",
   "reason": "No Reload Detected",
   "discord": "discord:887732140048007169"
 },
@@ -3791,7 +3744,6 @@
   "license": "license:eefdd9593fb8a4c337417f6b8ca34c67c9f9337b",
   "fivem": null,
   "MachineID": "095a29f3-aec7-44c1-af8d-93ad81cd184f",
-  "VisitorID": "c091aa3d1dccc95eddd30667abf522f0",
   "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
   "discord": "discord:772212874386079784"
 }
