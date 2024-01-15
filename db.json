@@ -3737,5 +3737,798 @@
   "MachineID": "095a29f3-aec7-44c1-af8d-93ad81cd184f",
   "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
   "discord": "discord:772212874386079784"
+},
+    {
+  "steam": "steam:11000010d93b7fe",
+  "xbox": null,
+  "license": "license:15951138fe2bf60edaa487fd43497c9a51546d02",
+  "fivem": null,
+  "MachineID": "54363f8c-0a9c-41a4-a8bf-b426ede17b21",
+  "VisitorID": "2013a34cd07790fb80a88c3bffa98dff",
+  "reason": "Stopped Resource: monitor using an executor",
+  "discord": "discord:411159016090107914"
+},
+{
+  "steam": "steam:11000011a6c20a8",
+  "xbox": null,
+  "license": "license:5284773b02528168e631a578051f6dca63c0d13b",
+  "fivem": null,
+  "MachineID": "a6103714-9ef3-4881-bf92-de7fe5253d7f",
+  "VisitorID": "e0a067df34519d16f6458bb75aeb2f72",
+  "reason": "Internal Cheat Detected: Eulen",
+  "discord": "discord:323034096844668928"
+},
+{
+  "steam": "steam:11000013b616c9a",
+  "xbox": null,
+  "license": "license:401604d9b6b0c6f2aaaf36a69f203619d6d85a37",
+  "fivem": null,
+  "discord": "discord:1080221937172762764",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:959cfb24075f91cb7cec4fec7c8ef5147cdd1498",
+  "fivem": null,
+  "MachineID": "423b8eca-f246-4a17-8151-2cc54902d5fe",
+  "discord": "discord:951551976368377956",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:f866b048f638cc3238981b43c5df4b7702648675",
+  "fivem": null,
+  "MachineID": "f073bdc6-e4dc-4da0-bd63-cac280aa12e1",
+  "discord": "discord:990163382378319912",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000014ccfc7c4",
+  "xbox": null,
+  "license": "license:b42d4adb86809ec9ea43c6f825d593d7629c9896",
+  "fivem": null,
+  "MachineID": "e199b6c9-a8eb-44a1-901a-f7ac810bf713",
+  "VisitorID": "2473ae57672c4146f92291a805a1fac6",
+  "reason": "Move Cheat Detected",
+  "discord": "discord:710884123786346576"
+},
+{
+  "steam": "steam:11000014914fcf0",
+  "xbox": null,
+  "license": "license:638e9988e0d67035ee9e18dffa0be4f272c2a8e6",
+  "fivem": null,
+  "MachineID": "6c55d6f3-5a86-4886-b83f-32a316953050",
+  "discord": "discord:860088313658081280",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:11000011c5210df",
+  "xbox": null,
+  "license": "license:caa8634dda81f2a84baf0a14fa5263246548e0a2",
+  "fivem": null,
+  "MachineID": "cbca4faf-6d17-47db-8170-e5e99a0f042e",
+  "discord": "discord:454296726942253067",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:110000133ce295d",
+  "xbox": null,
+  "license": "license:0df510b9545a516253823829253d2aab078a7529",
+  "fivem": null,
+  "MachineID": "42f5a754-66e0-4f66-961e-eb53ce9f894c",
+  "discord": "discord:535415109032345601",
+  "reason": "Cheat Detected: AI (3) [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1196531830841675896/screenshot.jpg?ex=65b7f81a&is=65a5831a&hm=a82a751becdb8c024cb512154a477e40daba309447dfa6063fb7eca799834d92&)"
+},
+{
+  "steam": "steam:1100001187c26a2",
+  "xbox": null,
+  "license": "license:e4cd31ec75941b979930e17895d8d48601479e96",
+  "fivem": null,
+  "MachineID": "8a79978e-7049-44c7-8313-c4c2919d7e69",
+  "VisitorID": "84842fe8d6d3eef62352bdb569f44657",
+  "reason": "Move Cheat Detected",
+  "discord": "discord:549953030947078154"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:09e9e8517c230c47cef67c5a70ea33b6023a2070",
+  "fivem": null,
+  "MachineID": "6724ff22-5aae-484a-99aa-d65886f4a481",
+  "discord": "discord:1068564343026876429",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:110000104605644",
+  "xbox": null,
+  "license": "license:6f0229777dec34518f46dd8e41b27b1bc2c3b7c5",
+  "fivem": null,
+  "discord": "discord:887634098603061318",
+  "reason": "AI Detected Word: fallout"
+},
+{
+  "steam": "steam:110000142f0f46e",
+  "xbox": null,
+  "license": "license:cbf36972b8d8ff71d5fc5e37316de56af7fec639",
+  "fivem": null,
+  "discord": "discord:417971023258976258",
+  "reason": "AI Detected Word: creekmenu"
+},
+{
+  "steam": "steam:110000146a3a557",
+  "xbox": null,
+  "license": "license:90151ea4e535bddc9671363dc681428075f03136",
+  "fivem": null,
+  "discord": "discord:830483624683634710",
+  "reason": "Tried to dump the server with RedENGINE (1)"
+},
+{
+  "steam": "steam:11000013c770602",
+  "xbox": null,
+  "license": "license:5d761d3dc4c36857b6614634f277f14e1ccad237",
+  "fivem": null,
+  "discord": "discord:1195481673157070919",
+  "reason": "AI Detected Word: skidmenu [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1196517483482464266/screenshot.jpg?ex=65b7eabe&is=65a575be&hm=d1299f6cbe1549bd6de355801ce38538c0d673c5fdebe1f21d5d9075d7907b9b&)"
+},
+{
+  "steam": "steam:11000013cff3e3a",
+  "xbox": null,
+  "license": "license:f808dd05e8ca732a0589e2b32c23947cf1a921f6",
+  "fivem": null,
+  "discord": "discord:513351858258182164",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:110000142f0f46e",
+  "xbox": null,
+  "license": "license:cbf36972b8d8ff71d5fc5e37316de56af7fec639",
+  "fivem": null,
+  "MachineID": "f0b9962c-6c55-40c8-a838-37b0dd943d75",
+  "discord": "discord:417971023258976258",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:1100001627ce85e",
+  "xbox": null,
+  "license": "license:35ccd842ace8eeed8af96bed763778e85c35f314",
+  "fivem": null,
+  "discord": "discord:828175010899427329",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000014af94ccf",
+  "xbox": null,
+  "license": "license:f3dfcf42d3eaeee173da5e41aaef249b21971d8d",
+  "fivem": null,
+  "MachineID": "41254fb9-267d-45b0-a03a-7810d62cea69",
+  "VisitorID": "d815af405a352073b6f8105f95efd6d6",
+  "reason": "Internal Cheat Detected: Eulen",
+  "discord": "discord:921149724491411547"
+},
+{
+  "steam": "steam:1100001627ce85e",
+  "xbox": null,
+  "license": "license:35ccd842ace8eeed8af96bed763778e85c35f314",
+  "fivem": null,
+  "MachineID": "f6fbcab4-ef00-42d4-845d-e976d99b614d",
+  "VisitorID": "59ed2a1f57afe8f6cee133337b0080fc",
+  "reason": "Internal Cheat Detected: Eulen",
+  "discord": "discord:828175010899427329"
+},
+{
+  "steam": "steam:11000011658f6d6",
+  "xbox": null,
+  "license": "license:555faecad64063d8172eb2fcc70fc2ccbaae3299",
+  "fivem": null,
+  "MachineID": "676d2b0a-2c12-46a1-9395-785110cc6527",
+  "VisitorID": "91abc022c3afb391d57d043a06f5e6ba",
+  "reason": "AI Detected Word: RedBoy 3.2",
+  "discord": "discord:377532715370545163"
+},
+{
+  "steam": "steam:11000014350bc95",
+  "xbox": null,
+  "license": "license:81c773ee24e88d25cf380a05dc4481e857c79bcd",
+  "fivem": null,
+  "MachineID": "21b35789-f514-4cbc-ada7-655b30c6e2ba",
+  "VisitorID": "155b13ce8d644a9eabe6326b5e93ba0b",
+  "reason": "Cheat Detected: AI (1)",
+  "discord": "discord:607133794494971906"
+},
+{
+  "steam": "steam:11000015a2ac99c",
+  "xbox": null,
+  "license": "license:12933d544c79972263cf04cfd944fde987068fc8",
+  "fivem": null,
+  "MachineID": "77388d80-a39a-4b54-9e95-2e440b66bef8",
+  "VisitorID": "c684c4850b8fab818baa632f5958965f",
+  "reason": "Tried to inject lua code with RedENGINE (2)",
+  "discord": "discord:310416354027110402"
+},
+{
+  "steam": "steam:110000141658aa9",
+  "xbox": null,
+  "license": "license:28a3c32cd102bb03f68f5735453c79158ed0ae88",
+  "fivem": null,
+  "MachineID": "3c553151-9e99-44a1-943e-bc46e1547243",
+  "discord": "discord:884553062428078091",
+  "reason": "Tried to damage without holding a weapon (Spawned Weapon)"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:cef8d39f3f765a168c1986e0c67a2e888afaa457",
+  "fivem": null,
+  "MachineID": "b11bcb64-b4e7-486b-bcc0-8ddf6b79ed7f",
+  "discord": "discord:1071456065042010152",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:1100001455e4bd6",
+  "xbox": null,
+  "license": "license:e26aa4f120cdc0cbf88b010bf94ab55172aa7346",
+  "fivem": null,
+  "discord": "discord:662714345712517131",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:110000160c80922",
+  "xbox": null,
+  "license": "license:fcf9c788d63973af2444f23e3f050cb2bc406eb9",
+  "fivem": null,
+  "MachineID": "fbcc67cc-3dd8-4032-9d2a-a5588165399b",
+  "discord": "discord:1185949942204858371",
+  "reason": "Blacklisted Clipboard Text: TriggerEvent('ws_announce', 'Nigga', 'discord.gg/44stuff joinen ihr nigga', 100)"
+},
+{
+  "steam": "steam:1100001477fe334",
+  "xbox": null,
+  "license": "license:d5bb5b83c913e919bd6dd4e514aad9655363d876",
+  "fivem": null,
+  "MachineID": "0a83852c-1dbc-4e2c-bdb2-3b4df6449274",
+  "VisitorID": "45e0b8da79764a323ac5be7c883c17d7",
+  "reason": "No Reload Detected",
+  "discord": "discord:531470611898433544"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:d669b20e52fd3ed224a511e57338068eb2afadc3",
+  "fivem": null,
+  "MachineID": "0b1d9016-731b-4343-84f9-0d1dfc5ea543",
+  "discord": null,
+  "reason": "Tried to damage without holding a weapon (Spawned Weapon)"
+},
+{
+  "steam": "steam:110000142e2f898",
+  "xbox": null,
+  "license": "license:511a244ada9406fddef100688f542db339a89b06",
+  "fivem": null,
+  "MachineID": "19187d37-1214-411f-8c37-0832fa64cf4e",
+  "discord": "discord:1125943470570340392",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:110000148db5cb2",
+  "xbox": null,
+  "license": "license:0db8e78ab7b69236f8f5af1990ec545d1bb5b774",
+  "fivem": null,
+  "discord": "discord:964567031229845624",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000011cead770",
+  "xbox": null,
+  "license": "license:bbcc64aa00ff1b0f7e2855b09c90f6b072f4f4bd",
+  "fivem": null,
+  "MachineID": "c2137c06-e1f4-4ccc-bbb6-5b4ea5dc921c",
+  "discord": "discord:641346764842205195",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:110000146d474ab",
+  "xbox": null,
+  "license": "license:00afa106676c6518fd81349e6f66af79685e80aa",
+  "fivem": null,
+  "discord": "discord:978347874276503673",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000016280f7d8",
+  "xbox": null,
+  "license": "license:d42018ef1bbd43a00b24b8ea906ca950d0c0aa81",
+  "fivem": null,
+  "MachineID": "bd6c1a25-6866-4c52-bdab-7522161fb4fc",
+  "discord": "discord:1196141498396332032",
+  "reason": "Stopped Resource: zv_discordlogs using an executor"
+},
+{
+  "steam": "steam:110000144ee2096",
+  "xbox": null,
+  "license": "license:2d991a59e0aad45f9aeebffd6e079906250028d0",
+  "fivem": null,
+  "MachineID": "f1f6332a-7a9d-446f-87ac-23c64e861bc1",
+  "discord": "discord:712354312700952596",
+  "reason": "Move Cheat Detected"
+},
+{
+  "steam": "steam:110000119ffb138",
+  "xbox": null,
+  "license": "license:9f08238b7f5b18ef6066a29ec56ee04aa33354cf",
+  "fivem": null,
+  "MachineID": "27b36119-5c32-4e41-b7a7-2419de8937dd",
+  "discord": "discord:1158749401213313055",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:110000158636413",
+  "xbox": null,
+  "license": "license:7d70cd5156913d2f82b00744100aa2566fe533a4",
+  "fivem": null,
+  "MachineID": "d5dccb5f-faa0-472b-b99c-20dcad241b1f",
+  "discord": "discord:795621458566447134",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:9f4f1c9ab182022249a2335c11b8ffb5a5c67fc9",
+  "fivem": null,
+  "discord": "discord:1195515242445275190",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:110000159d2c4e1",
+  "xbox": null,
+  "license": "license:a24634e2c0ef6700c18f84284b21b2393b002a2e",
+  "fivem": null,
+  "MachineID": "fe8b36e3-44fd-4b28-b7aa-8d0f96a0468e",
+  "VisitorID": "a37a42d0b7cf73e7bc47bb13947e6f13",
+  "reason": "Move Cheat Detected",
+  "discord": "discord:557970448663445505"
+},
+{
+  "steam": "steam:110000152b5e1b8",
+  "xbox": null,
+  "license": "license:8c4a04afeb260e341c4fb22c3fa5bf445fbbd392",
+  "fivem": null,
+  "MachineID": "47fd0432-831b-4627-9cff-18de729f3bd3",
+  "discord": "discord:934555385589817354",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000013de9bf3f",
+  "xbox": null,
+  "license": "license:bd3eb92988639d6d40b6c124c6493f89b4c1f84c",
+  "fivem": null,
+  "MachineID": "aa1f7ebd-5227-42a8-90ac-d039887e7c58",
+  "VisitorID": "63d2bdb161bd6bac7c0ee0dc99a229c2",
+  "reason": "AI Detected Word: samppimafia [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1196224642650738858/screenshot.jpg?ex=65b6da03&is=65a46503&hm=7d57d80493c427c5506234448d90abb065d3811552ccaf538695dc024edb7545&)",
+  "discord": "discord:822199281733599293"
+},
+{
+  "steam": "steam:11000015b2ad16e",
+  "xbox": null,
+  "license": "license:300da0de543465ffb573ea3a78a00ccd506e0e16",
+  "fivem": null,
+  "MachineID": "dd9a46e0-f3a9-4c13-8628-33537f85b959",
+  "VisitorID": "7d65b35fbe42355e0a04f379d1aba1f6",
+  "reason": "Tried to dump the server with RedENGINE (1)",
+  "discord": "discord:1193982997586780180"
+},
+{
+  "steam": "steam:11000013e1beca3",
+  "xbox": null,
+  "license": "license:baf1e504bcf2161523d0b92d1856201a9b5081b0",
+  "fivem": null,
+  "discord": "discord:758664861168435211",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:11000014056a040",
+  "xbox": null,
+  "license": "license:1ce578e1353982e64cbd7861ad22ff0b56898425",
+  "fivem": null,
+  "MachineID": "0f395cee-f317-4aed-88cb-5e85f8fc09b4",
+  "discord": "discord:755122503189266613",
+  "reason": "Tried to damage without holding a weapon (Spawned Weapon)"
+},
+{
+  "steam": "steam:11000013522cec5",
+  "xbox": null,
+  "license": "license:d24d9169f9b2ad9e6130fe9f5213c6cb04143088",
+  "fivem": null,
+  "discord": "discord:475298883526721536",
+  "reason": "AI Detected Word: skidmenu [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1196195954097913856/screenshot.jpg?ex=65b6bf4b&is=65a44a4b&hm=5586911ff236927244601f9a0db7b8667479a53dccc44ad64f5c93b0afc4209d&)"
+},
+{
+  "steam": "steam:110000143e2eae4",
+  "xbox": null,
+  "license": "license:6f0229fa3fb545e32cd2d928ec1cdb20e598dc0a",
+  "fivem": null,
+  "discord": "discord:764899227843166259",
+  "reason": "AI Detected Word: [new] world options [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1196192879098474596/screenshot.jpg?ex=65b6bc6e&is=65a4476e&hm=f91634dfcf8f5e48ff160bebdfafeba7aa83a086c874ee36ba2b4358d9f4c00c&)"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:818d81b28e95b0def25b6b49549aba7b7ff3d03f",
+  "fivem": null,
+  "discord": "discord:1177975703002693745",
+  "reason": "Tried to inject a premium menu with RedENGINE (1)"
+},
+{
+  "steam": "steam:11000015812395b",
+  "xbox": null,
+  "license": "license:6f59ed4713a99781f167d160a95c1ddf90a3d716",
+  "fivem": null,
+  "MachineID": "4bb36bcb-88ab-4ac5-90db-fa984c7295da",
+  "discord": null,
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:1100001023f93d9",
+  "xbox": null,
+  "license": "license:1a0d254808cab2c33dc82bbf9027326eea92c713",
+  "fivem": null,
+  "MachineID": "92ae308a-10cb-4da4-974b-a0e221ec7c86",
+  "VisitorID": "3c7aae03d1bca9f4aba1a4b5a52b8aa9",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:469502292505133076"
+},
+{
+  "steam": "steam:11000014ae9b240",
+  "xbox": null,
+  "license": "license:fc7a5fe27c001e134649327b2284b12e468db38e",
+  "fivem": null,
+  "MachineID": "5d16f160-014c-48fa-8de5-211e4a01c425",
+  "discord": "discord:1044489060682579989",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:1100001119908a4",
+  "xbox": null,
+  "license": "license:bb6a3b782e30fc5a3512ca635d6b6c6ea664f333",
+  "fivem": null,
+  "MachineID": "d65eb2b4-57c7-43f4-84ee-9f7725ffff0a",
+  "VisitorID": "8f88f1efa08796dffaef3ba5aaa78906",
+  "reason": "Tried to toggle dump stream files with RedENGINE",
+  "discord": "discord:1113043972584116235"
+},
+{
+  "steam": "steam:11000014b951754",
+  "xbox": null,
+  "license": "license:bf6cc7891a677b17623f0899369b648e4fb6afd5",
+  "fivem": null,
+  "discord": "discord:922555449897791499",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000014356387e",
+  "xbox": null,
+  "license": "license:fa36ca08354ff78d6fea4e81b0d1c37e3cbdc863",
+  "fivem": null,
+  "MachineID": "fe1221b3-dbef-414a-99f2-f3308509ef17",
+  "VisitorID": "e704d08886bec4e40551fa7f60a06f89",
+  "reason": "RedENGINE Lua execution detected (2)",
+  "discord": "discord:725393598727847997"
+},
+{
+  "steam": "steam:110000142f0f46e",
+  "xbox": null,
+  "license": "license:cbf36972b8d8ff71d5fc5e37316de56af7fec639",
+  "fivem": null,
+  "MachineID": "2356f8f4-2e19-42d0-bcb1-f3aec27ca5e9",
+  "VisitorID": "1b2966ee6f74955abd57fc37fe86c5ae",
+  "reason": "Client Modifications: Temp Event",
+  "discord": "discord:417971023258976258"
+},
+{
+  "steam": "steam:110000161e24054",
+  "xbox": null,
+  "license": "license:00310d80d5ec0af7a834da3e44050f0b1df89882",
+  "fivem": null,
+  "discord": "discord:326715012930600971",
+  "reason": "No Reload Detected"
+},
+{
+  "steam": "steam:110000114043273",
+  "xbox": null,
+  "license": "license:7c0e50aa55bcccad281a62156bff02938f321833",
+  "fivem": null,
+  "MachineID": "0fa03f7f-6b8d-4537-b4b5-415592d9a51f",
+  "VisitorID": "3e4b816c57d578380154318a62030828",
+  "reason": "No Reload Detected",
+  "discord": "discord:613713618311315466"
+},
+{
+  "steam": "steam:110000136829604",
+  "xbox": null,
+  "license": "license:d7745c38325abbf434f95c77246fe0521257964d",
+  "fivem": null,
+  "MachineID": "7894e2f5-91e8-4717-9788-8cd9c5943037",
+  "VisitorID": "9e7fc98ebbf0c896e76259c3672cce57",
+  "reason": "Tried to inject a (.lua) file with RedENGINE (1)",
+  "discord": "discord:633741185713831939"
+},
+{
+  "steam": "steam:110000106d9415a",
+  "xbox": null,
+  "license": "license:8896a38b1c7022fc51cafab0c6cab42335a48066",
+  "fivem": null,
+  "MachineID": "d2fe0baa-7129-4e82-af60-25ab7478c485",
+  "discord": "discord:979652547134521354",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:11000014e572570",
+  "xbox": null,
+  "license": "license:3cb636a28d9d8c25115d158ff19723d07a66f35c",
+  "fivem": null,
+  "MachineID": "198f2cd9-248f-46c5-bff2-2b0064896a85",
+  "VisitorID": "e75c441d83f3870f35918b054ddfe814",
+  "reason": "No Reload Detected",
+  "discord": "discord:976140621939110011"
+},
+{
+  "steam": "steam:110000161d2e4f5",
+  "xbox": null,
+  "license": "license:9b527b6d53162b5045eb1b07cb2f592fb92075b7",
+  "fivem": null,
+  "discord": "discord:1193996430663229481",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:110000135bfde36",
+  "xbox": null,
+  "license": "license:92730ef24487693ade93231e5f941afeae198cc7",
+  "fivem": null,
+  "MachineID": "f938f527-061e-4164-86ad-a0558889a200",
+  "discord": "discord:549307923365494794",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000014bf368ae",
+  "xbox": null,
+  "license": "license:1382d473894bc216c36a82c3d96997c624089ae2",
+  "fivem": null,
+  "MachineID": "48f6415a-9461-4146-b178-df71fcbd0d05",
+  "VisitorID": "377536ad17fb2e4bcd7e0b268866d438",
+  "reason": "Internal Cheat Detected: Eulen",
+  "discord": "discord:809765115439743057"
+},
+{
+  "steam": "steam:11000014d5128d6",
+  "xbox": null,
+  "license": "license:60a4e5440658103ba5775fe4b91c5ad81f338461",
+  "fivem": null,
+  "MachineID": "bb1cbedb-96ab-4def-8eb7-d898490d6038",
+  "VisitorID": "70aa6b2cb572371c6d82241583532084",
+  "reason": "Tried to damage without holding a weapon (Spawned Weapon)",
+  "discord": "discord:908254324927397888"
+},
+{
+  "steam": "steam:110000146ca2bc7",
+  "xbox": null,
+  "license": "license:63d1c7a4c7abf74845b0c94b8973b6a075940ca7",
+  "fivem": null,
+  "MachineID": "099b0501-c189-4c7f-93ed-4953efb92b49",
+  "VisitorID": "cafdad7a4f12fe00b31fd2d186bdf973",
+  "reason": "Tried to damage without holding a weapon (Spawned Weapon)",
+  "discord": "discord:983394531317800970"
+},
+{
+  "steam": "steam:11000015a65f563",
+  "xbox": null,
+  "license": "license:6b22677901249415fa36a497b433c7541315c1f7",
+  "fivem": null,
+  "MachineID": "b1d943c0-ba59-4a15-94bf-7e8440f297e4",
+  "VisitorID": "4cb34f62f7fc5e62e57574103d81f0c5",
+  "reason": "Internal Cheat Detected: Eulen",
+  "discord": "discord:904427922272694312"
+},
+{
+  "steam": "steam:11000014834e569",
+  "xbox": null,
+  "license": "license:cfad0ce272dcf83e7b1247c8a25bc6ea62047d8b",
+  "fivem": null,
+  "MachineID": "aa075579-f377-4cea-8f12-a93376bfe0de",
+  "VisitorID": "1e6e286d0b7aedab8429501170fbedb8",
+  "reason": "Ai Modification Detected: Silent Aim (Hitbox)",
+  "discord": "discord:846737430030581821"
+},
+{
+  "steam": "steam:110000161d2e4f5",
+  "xbox": null,
+  "license": "license:9b527b6d53162b5045eb1b07cb2f592fb92075b7",
+  "fivem": null,
+  "MachineID": "71c19ff3-01ee-4fea-a41a-0b4197c02738",
+  "VisitorID": "aacb85999a247d7fbfd37f021168f83a",
+  "reason": "Tried to damage without holding a weapon (Spawned Weapon)",
+  "discord": "discord:1193996430663229481"
+},
+{
+  "steam": "steam:11000015d1a8a28",
+  "xbox": null,
+  "license": "license:28f013c94e502dcea0fc97977bd1e1eb450cc68e",
+  "fivem": null,
+  "MachineID": "cf5be98f-a72f-4ef9-9bb3-7562e9193240",
+  "VisitorID": "b51db2d16e5aedf4e186dfc19633f1a0",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:1000565199696298025"
+},
+{
+  "steam": "steam:110000100ed97bb",
+  "xbox": null,
+  "license": "license:fc98ded96fac3b809b1f1c3c8dfa6e657c6d6e84",
+  "fivem": null,
+  "MachineID": "f4d88281-5f5f-4fff-9c1b-140f324ca8ab",
+  "discord": "discord:868877733340516462",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:110000149d553f2",
+  "xbox": null,
+  "license": "license:9a34e55993bab5c7ef85744f0db908f32a4248c7",
+  "fivem": null,
+  "MachineID": "d4a97c75-eed1-47f8-885e-9678fee2890b",
+  "VisitorID": "639e739dd6cb04f5ca7590f5ff01081a",
+  "reason": "AI Detected Word: set all nearby vehicles plate text [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1196104876455903364/screenshot.jpg?ex=65b66a79&is=65a3f579&hm=b9e5b2f74248ffc4a72d353c8f4fdaff0b02bee61cebca5d0423ab03bdf11fb2&)",
+  "discord": "discord:1010988675724750938"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:cf258193315a7b1510837c8879fb87b9a9d1c36b",
+  "fivem": null,
+  "MachineID": "12399f60-d35b-4d22-b406-d33971078ebc",
+  "discord": "discord:767832919921917974",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:1100001442b2c4b",
+  "xbox": null,
+  "license": "license:8df9ba637d87714ace32307c086752f6c566e3ab",
+  "fivem": null,
+  "MachineID": "d3610470-14c6-4620-ad8b-78297b7fe127",
+  "discord": "discord:474310737133830145",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:11000016130aba9",
+  "xbox": null,
+  "license": "license:c45d85cde4dd0396529d5e716014f60121a63fd9",
+  "fivem": null,
+  "MachineID": "ceed1a76-1aad-4e5a-9d62-1d0b276c9c7f",
+  "VisitorID": "0ddd35a7563a05013e29cff6a2646eea",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:1159852315331801168"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:d233425077aef0b1c926500817112d8f8a5f0441",
+  "fivem": null,
+  "discord": "discord:726038368990789632",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:11000015bc31221",
+  "xbox": null,
+  "license": "license:4333e260cc553886298b78efe959be0b3175c508",
+  "fivem": null,
+  "MachineID": "736c3f62-1034-488f-b487-1c48a87aa4c8",
+  "discord": "discord:1130590535514595389",
+  "reason": "Cheat Detected: AI (3)"
+},
+{
+  "steam": "steam:110000141541f68",
+  "xbox": null,
+  "license": "license:db9e76aa9703d166f773c290986c8d51d161d440",
+  "fivem": null,
+  "MachineID": "74022f7f-2b6b-4c00-b98c-7d69400185f6",
+  "VisitorID": "8b63f132569da79cf3548b8e36f67b4e",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:1033779145609596998"
+},
+{
+  "steam": "steam:11000013f0572dc",
+  "xbox": null,
+  "license": "license:95d8c3747f6d83d844e1773d06ea026af39a9781",
+  "fivem": null,
+  "MachineID": "64174232-2198-483c-9561-53091fa1f6cf",
+  "discord": "discord:723908938738696232",
+  "reason": "Internal Cheat Detected: Eulen"
+},
+{
+  "steam": "steam:110000159de8434",
+  "xbox": null,
+  "license": "license:802e6a38ae8c145348004b5250d900069e790894",
+  "fivem": null,
+  "MachineID": "a46ecb70-1afd-48df-a5d3-0bd4284f82ca",
+  "VisitorID": "1ce58ab6e82816b51d44e7f78a75a4e2",
+  "reason": "Move Cheat Detected",
+  "discord": "discord:1135292138205216918"
+},
+{
+  "steam": "steam:110000161ddff4c",
+  "xbox": null,
+  "license": "license:cd56a327469bf9bb677806c5ee8fbf748404630e",
+  "fivem": null,
+  "MachineID": "c5213d66-ed17-419f-bd8a-287eb2cf6328",
+  "VisitorID": "9fbecf33e9084643c2d0c4ecda38f32b",
+  "reason": "Move Cheat Detected",
+  "discord": "discord:1185347097290084435"
+},
+{
+  "steam": "steam:11000014ba1da82",
+  "xbox": null,
+  "license": "license:a1bf7332b5bd2cf2653f8642516340b4be46ef5b",
+  "fivem": null,
+  "MachineID": "588bb641-bbe8-4068-8447-710b662de3c4",
+  "VisitorID": "ccfd22abd823fb1318e13e606ecb9f24",
+  "reason": "Tried to inject lua code with RedENGINE (2)",
+  "discord": "discord:1093221097975054561"
+},
+{
+  "steam": "steam:11000013ea49d21",
+  "xbox": null,
+  "license": "license:aee2cb9711742fc955a38825e6e55972cd2d7a34",
+  "fivem": null,
+  "MachineID": "3c8cff2d-5545-4997-90ac-087feb82ab4a",
+  "VisitorID": "84130e7840e5c828648ba8fb8f7d09dd",
+  "reason": "Cheat Detected: AI (1)",
+  "discord": "discord:815935875531800576"
+},
+{
+  "steam": "steam:110000135f37c35",
+  "xbox": null,
+  "license": "license:fa04ce3cac46f9829d555e6d0428f4d530566d30",
+  "fivem": null,
+  "MachineID": "6f9b1e63-91d4-4627-9dac-add571b02577",
+  "VisitorID": "c2880e3a55aec5f6d0682ceef43a03d7",
+  "reason": "Blacklisted Event: esx_jailer:sendToJail [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1195912825546211448/screenshot.jpg?ex=65b5b79c&is=65a3429c&hm=d6b906d7d3c28252e22aa87ae78fbb04f583051184fbef9d8886791ad90604f8&)",
+  "discord": "discord:1145658093355667577"
+},
+{
+  "steam": "steam:110000143bb6fe0",
+  "xbox": null,
+  "license": "license:a4960528f8123e89f8c0a6bebf7fc31944ccf273",
+  "fivem": null,
+  "MachineID": "6488b250-2af4-4493-a1b0-5a3b4af1e0ac",
+  "VisitorID": "5cd7f243b437ff4dc582a8facd60ac8f",
+  "reason": "No Reload Detected",
+  "discord": "discord:730834373678465037"
+},
+{
+  "steam": "steam:110000147c02b89",
+  "xbox": "xbox:2535453212746700",
+  "license": "license:19d56c0bdf71838054cb8465b1a390f09c10dcb6",
+  "fivem": "fivem:11287444",
+  "MachineID": "188d6582-5adc-41ab-854e-b4b6a30c3789",
+  "VisitorID": "3f3fe08f1d0e7c6ee0212bf0cc161a54",
+  "reason": "External Cheat or internal without block input [Download Video](https://cdn.discordapp.com/attachments/1195823681918750770/1196561084082032800/screen-recording.webm)",
+  "discord": "discord:658978337976483840"
+},
+{
+  "steam": "steam:110000159d2c4e1",
+  "xbox": "xbox:2535419264778037",
+  "license": "license:a24634e2c0ef6700c18f84284b21b2393b002a2e",
+  "fivem": "fivem:12897562",
+  "MachineID": "fe8b36e3-44fd-4b28-b7aa-8d0f96a0468e",
+  "VisitorID": "a37a42d0b7cf73e7bc47bb13947e6f13",
+  "reason": "External Cheat or internal without block input",
+  "discord": "discord:557970448663445505"
+},
+{
+  "steam": "steam:11000015b127707",
+  "xbox": null,
+  "license": "license:cc4aa22c72fa5393a4b8ee410c18ab73d431d723",
+  "fivem": null,
+  "MachineID": "c4ce281a-4008-4042-83dc-5abb16b26f13",
+  "discord": "discord:542346439120912394",
+  "reason": "Tried to inject lua code with RedENGINE (1)"
 }
 ]
