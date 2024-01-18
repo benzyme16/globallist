@@ -2730,15 +2730,6 @@
   "reason": "Cheat Detected: AI (3)"
 },
 {
-  "steam": "steam:11000014c385fbf",
-  "xbox": null,
-  "license": "license:a853c0613b2857bf61e7948b568ba0cb56152075",
-  "fivem": null,
-  "MachineID": "45d1fe21-c403-4fb5-ae80-1047bf1e2d50",
-  "discord": "discord:1045326974731681904",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)"
-},
-{
   "steam": "steam:1100001130bbddd",
   "xbox": null,
   "license": "license:c0c48f2182a54553ce27e31e17a0a4ee0f493bd3",
@@ -2746,15 +2737,6 @@
   "MachineID": "c186c367-236e-4fc0-b993-f75ca0270670",
   "reason": "Tried to inject a premium menu with RedENGINE (1)",
   "discord": "discord:642481277706174464"
-},
-{
-  "steam": "steam:110000104b49b78",
-  "xbox": null,
-  "license": "license:b8d5abcbb2614ad6994cec3e918b81cbf432cfaa",
-  "fivem": null,
-  "MachineID": "b3684629-3548-4a8b-a83c-befed7b66201",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
-  "discord": "discord:997585519338848307"
 },
 {
   "steam": "steam:110000161c52323",
@@ -2775,15 +2757,6 @@
   "discord": "discord:469502292505133076"
 },
 {
-  "steam": "steam:11000011d3af40f",
-  "xbox": null,
-  "license": "license:c81ca6779ef8a58eebeaf7e73e74beb0b045d0ec",
-  "fivem": null,
-  "MachineID": "0d8d1108-f1f9-4373-8a27-abcab42ec4fe",
-  "reason": "Cheat Detected: AI (3)",
-  "discord": "discord:609813669487968258"
-},
-{
   "steam": "steam:1100001603b8fd3",
   "xbox": null,
   "license": "license:b80c31b4f8da9a107ba4df6e902aaae02e3f9b71",
@@ -2799,15 +2772,6 @@
   "fivem": null,
   "discord": "discord:499558476947914785",
   "reason": "Cheat Detected: AI (3)"
-},
-{
-  "steam": "steam:110000118839d33",
-  "xbox": null,
-  "license": "license:396af8f1819243c998c8b944b017da7cd5794c2b",
-  "fivem": null,
-  "MachineID": "2467f474-6c18-4594-84a7-9376c68e6ab9",
-  "discord": null,
-  "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)"
 },
 {
   "steam": "steam:11000013ebf4756",
@@ -2897,30 +2861,12 @@
   "reason": "Internal Cheat Detected: Eulen"
 },
 {
-  "steam": "steam:1100001415db83e",
-  "xbox": null,
-  "license": "license:7465a0fed00ad032e639d974504ee998a273af3a",
-  "fivem": null,
-  "MachineID": "fe222fd4-446f-4b7c-b866-55e6666c6cc7",
-  "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
-  "discord": "discord:709411006702682185"
-},
-{
   "steam": "steam:11000010971987c",
   "xbox": null,
   "license": "license:e45ed8f01b5b1d5f3e9bcc0405538265b189ff27",
   "fivem": null,
   "discord": "discord:491204874709630986",
   "reason": "Cheat Detected: AI (3)"
-},
-{
-  "steam": "steam:11000014b746941",
-  "xbox": null,
-  "license": "license:2e75a8c318ab990a11438bbee6897405f84ff56d",
-  "fivem": null,
-  "MachineID": "185f6e15-9216-478d-8933-7bfd3a432917",
-  "reason": "Ai Modification Detected: Hitbox Modified (2)",
-  "discord": "discord:918944882368839740"
 },
 {
   "steam": "steam:1100001460488c6",
@@ -2939,15 +2885,6 @@
   "MachineID": "102fbc0f-c21b-4bb0-9968-54c0a6f6b23b",
   "discord": "discord:803259277539803146",
   "reason": "No Reload Detected"
-},
-{
-  "steam": "steam:110000148a0fa21",
-  "xbox": null,
-  "license": "license:dc1501cc80e982fb5f35f1b849cefa269a5b049e",
-  "fivem": null,
-  "MachineID": "1d4bf57d-d3f2-4ea5-bd77-f4d0748ea81d",
-  "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
-  "discord": "discord:1043260340269502565"
 },
 {
   "steam": "steam:110000141e6e355",
@@ -3207,15 +3144,6 @@
   "discord": "discord:535415109032345601"
 },
 {
-  "steam": "steam:11000013fbe05fb",
-  "xbox": null,
-  "license": "license:15e0714877d4196493902c315c922d6e5b731f16",
-  "fivem": null,
-  "MachineID": "8daa09e3-1555-4db6-b2e5-4ac39ae9a3e7",
-  "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
-  "discord": "discord:331707655695499274"
-},
-{
   "steam": "steam:11000013b2998d5",
   "xbox": null,
   "license": "license:34c64f1e744f0ddcb4c2241899eb64fc8826fc56",
@@ -3306,51 +3234,6 @@
   "reason": "Internal Cheat Detected: Eulen"
 },
 {
-  "steam": "steam:11000014ffbfab7",
-  "xbox": null,
-  "license": "license:459f6646a2d250aa6601a7d118967befe865e398",
-  "fivem": null,
-  "MachineID": "f594a248-3605-4b38-8293-278f17384782",
-  "discord": "discord:749215645702422579",
-  "reason": "Ai Modification Detected: Hitbox Modified (2)"
-},
-{
-  "steam": "steam:11000014398ea96",
-  "xbox": null,
-  "license": "license:3b967d87ff350e5e28b12202800fe3abc57dbeef",
-  "fivem": null,
-  "MachineID": "f3b4b870-385c-42cd-8f79-5c1efdb8c7eb",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
-  "discord": "discord:1131691220154986656"
-},
-{
-  "steam": "steam:11000015122e796",
-  "xbox": null,
-  "license": "license:cc66f6fd3a15de8de43c0952831d2ac126af4157",
-  "fivem": null,
-  "MachineID": "c4a5565f-1219-43a3-b1e0-7fa917c55db5",
-  "discord": "discord:1177872066003873833",
-  "reason": "Ai Modification Detected: Hitbox Modified (2)"
-},
-{
-  "steam": "steam:110000145739256",
-  "xbox": null,
-  "license": "license:289d0f66b1016567e3af0115e39e9cb66838689a",
-  "fivem": null,
-  "MachineID": "59d7596f-ca3b-46e5-ac50-8cfd7fb06746",
-  "discord": "discord:705415779759423498",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)"
-},
-{
-  "steam": "steam:11000013cecd27e",
-  "xbox": null,
-  "license": "license:d176de85c79629d0b37925e1a65f93297d9f9bfa",
-  "fivem": null,
-  "MachineID": "45651a06-5bb7-4dd9-987c-7bebbbfb67f3",
-  "reason": "Ai Modification Detected: Hitbox Modified (XL)",
-  "discord": "discord:420274236960145409"
-},
-{
   "steam": "steam:11000014deb3a2f",
   "xbox": null,
   "license": "license:b83790c6ee7583b6d45b8f2f1471e9a6e36206e9",
@@ -3358,15 +3241,6 @@
   "MachineID": "9acc85a1-56f6-43d2-99f4-a088ff7a18af",
   "discord": "discord:1039551663838609551",
   "reason": "Cheat Detected: AI (1)"
-},
-{
-  "steam": "steam:110000142b48408",
-  "xbox": null,
-  "license": "license:6025317b0d6ed67b39adc445c33bb58476f2ea00",
-  "fivem": null,
-  "MachineID": "915775e8-800a-4326-958d-dd2df1dba37d",
-  "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
-  "discord": "discord:828158780847161364"
 },
 {
   "steam": "steam:11000015e71f5b8",
@@ -3385,15 +3259,6 @@
   "MachineID": "41978dcb-8ddc-4e6f-8fe2-305bb82b3a6e",
   "discord": "discord:741327036521512961",
   "reason": "Internal Cheat Detected: Eulen"
-},
-{
-  "steam": null,
-  "xbox": null,
-  "license": "license:4b648f979d1377990aa36db09c77aabb9399d953",
-  "fivem": null,
-  "MachineID": "44b2cc2b-b34f-41f2-a4d1-04363fb763df",
-  "discord": "discord:959892611592749086",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)"
 },
 {
   "steam": null,
@@ -3422,48 +3287,12 @@
   "reason": "AI Detected Word: self options"
 },
 {
-  "steam": "steam:1100001324559b2",
-  "xbox": null,
-  "license": "license:1b45b38d080a889bc8e6354c3aeff0b153d130ed",
-  "fivem": null,
-  "MachineID": "a76c4ca9-b25c-4f37-8af6-4da84e3ecff7",
-  "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
-  "discord": "discord:772861082388660254"
-},
-{
-  "steam": "steam:110000148ca211a",
-  "xbox": null,
-  "license": "license:f19bb77d5cf806bfc9c007b15ac9117834c0625b",
-  "fivem": null,
-  "MachineID": "d535ed5e-9a8b-4525-bbd8-0b3cfddda89b",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
-  "discord": "discord:934901273680048202"
-},
-{
   "steam": "steam:110000136889f9c",
   "xbox": null,
   "license": "license:257c6a250497ffcd8615cfa9b8f52e778de54319",
   "fivem": null,
   "discord": "discord:518528211618103301",
   "reason": "AI Detected Word: self options"
-},
-{
-  "steam": "steam:11000014671a257",
-  "xbox": null,
-  "license": "license:6eb86c8aa9b4eec09b147b5c8839a2b04d858751",
-  "fivem": null,
-  "MachineID": "367ab974-5f87-48b2-8829-c8d7031f1091",
-  "discord": "discord:935251030491414648",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)"
-},
-{
-  "steam": "steam:11000014f558e97",
-  "xbox": null,
-  "license": "license:60c192aa51979cdc37b7eb7a970196859aebc8ba",
-  "fivem": null,
-  "MachineID": "b113f60b-5f39-4ce8-aa0b-e413acc96e0f",
-  "reason": "Ai Modification Detected: Hitbox Modified (S, L, M)",
-  "discord": "discord:977241182570700841"
 },
 {
   "steam": "steam:110000149eb3315",
@@ -3641,15 +3470,6 @@
   "discord": "discord:418472508602449931"
 },
 {
-  "steam": "steam:11000015a971613",
-  "xbox": null,
-  "license": "license:83ffea8025751f1611b9b0d69079a3cbf84e7e37",
-  "fivem": null,
-  "MachineID": "6bc2d2cc-f325-4592-98e4-16cc85bda37f",
-  "discord": "discord:1041094806824300635",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)"
-},
-{
   "steam": "steam:1100001565fc879",
   "xbox": null,
   "license": "license:9e647da5d72247df5ed215aaa5c84afa5be2652e",
@@ -3728,15 +3548,6 @@
   "fivem": null,
   "discord": "discord:981080278023942204",
   "reason": "Menu Detected: Dopamine"
-},
-{
-  "steam": "steam:11000013f5fdd31",
-  "xbox": null,
-  "license": "license:eefdd9593fb8a4c337417f6b8ca34c67c9f9337b",
-  "fivem": null,
-  "MachineID": "095a29f3-aec7-44c1-af8d-93ad81cd184f",
-  "reason": "Ai Modification Detected: Hitbox Modified (XXL)",
-  "discord": "discord:772212874386079784"
 },
     {
   "steam": "steam:11000010d93b7fe",
