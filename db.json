@@ -4530,5 +4530,15 @@
   "MachineID": "c4ce281a-4008-4042-83dc-5abb16b26f13",
   "discord": "discord:542346439120912394",
   "reason": "Tried to inject lua code with RedENGINE (1)"
+},
+    {
+  "steam": "steam:11000015c40600c",
+  "xbox": null,
+  "license": "license:df81310675953539620fc28113340866679274ec",
+  "fivem": null,
+  "MachineID": "f3a53c05-3bac-4f07-9c85-bf3c26e465b1",
+  "VisitorID": "7f14ec8b886cc7c4fae43f95aab6f41d",
+  "reason": "Armour: 100/0.0",
+  "discord": "discord:1187108996956561422"
 }
 ]
