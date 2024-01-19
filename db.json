@@ -4429,24 +4429,6 @@
 "discord": "discord:832227523081142334"
 },
 {
-"steam": "steam:110000137112643",
-"xbox": null,
-"license": "license:0fb2e30f7af4b966ee513ccefc1da66218984f64",
-"fivem": null,
-"MachineID": "18646998-9c60-47b8-bfa6-0514eee47b0a",
-"reason": "Tried to save dump with RedENGINE (1)",
-"discord": "discord:910435953783500802"
-},
-{
-"steam": "steam:11000011787adb7",
-"xbox": null,
-"license": "license:83e784567bd3bae7610374880dcabc15bed3f26b",
-"fivem": null,
-"MachineID": "6fce8589-6150-4948-9f0e-68c403d0246d",
-"reason": "Tried to inject a premium menu with RedENGINE (2)",
-"discord": "discord:1069715371310973089"
-},
-{
 "steam": "steam:1100001577c43b7",
 "xbox": null,
 "license": "license:45dd0fb60367f6bb26562c68ded0eecf22991ccc",
@@ -4610,15 +4592,6 @@
 "MachineID": "22485f65-703a-478c-9f14-46b04b771174",
 "reason": "Cheat Detected: AI (1)",
 "discord": "discord:1159170067368509471"
-},
-{
-"steam": "steam:11000016019c2b1",
-"xbox": null,
-"license": "license:408d1f442397f14cc76c0dee81e9cc5a4e8cd3cc",
-"fivem": null,
-"MachineID": "5422922e-b8e1-4884-9c7e-c9ad53c3d180",
-"reason": "Tried to dump the server with RedENGINE (1)",
-"discord": "discord:1176253104119894059"
 },
 {
 "steam": "steam:11000011270b4c6",
@@ -4806,15 +4779,6 @@
 "reason": "Internal Cheat Detected: Eulen"
 },
 {
-"steam": "steam:11000015c0a9bbe",
-"xbox": null,
-"license": "license:08415a59ee2e5e6d778d8801b5a22f9bc01ebb2f",
-"fivem": null,
-"MachineID": "6d5a453a-625c-4e6f-b250-da7a8dc93909",
-"discord": "discord:455213657261998080",
-"reason": "Tried to inject a premium menu with RedENGINE (2)"
-},
-{
 "steam": "steam:11000015afddf5a",
 "xbox": null,
 "license": "license:e8c6a4b90171666cea30b7791cc30ab07a9c6c4d",
@@ -4979,15 +4943,6 @@
 "reason": "Move Cheat Detected"
 },
 {
-"steam": "steam:11000013670934a",
-"xbox": null,
-"license": "license:60a6e0f6da13ba400892cbcf522aa0d362f5c680",
-"fivem": null,
-"MachineID": "8ff56c8e-814d-4e87-9271-481afbb7a394",
-"discord": "discord:501444797123264522",
-"reason": "Tried to inject a premium menu with RedENGINE (2)"
-},
-{
 "steam": "steam:11000013f259e8c",
 "xbox": null,
 "license": "license:eb8051e4132f35bef54f2e235ca8c097560c90b8",
@@ -5063,14 +5018,6 @@
 "fivem": null,
 "discord": "discord:341477447784595456",
 "reason": "AI Detected Word: dopamine"
-},
-{
-"steam": "steam:11000010b2e66fd",
-"xbox": null,
-"license": "license:dba641d2a455fefacc794a4738801d7f4c68289c",
-"fivem": null,
-"discord": null,
-"reason": "Tried to dump the server with RedENGINE (1)"
 },
 {
 "steam": "steam:11000014a1f83e3",
@@ -5169,15 +5116,6 @@
 "reason": "Internal Cheat Detected: Eulen"
 },
 {
-"steam": "steam:110000158820c79",
-"xbox": null,
-"license": "license:1b0cc2ab2903c978244a5870cedf5b4659ce8f4c",
-"fivem": null,
-"MachineID": "47389cae-8c74-4573-b161-ec4a5aecc8e3",
-"discord": "discord:1193546092340596826",
-"reason": "Tried to toggle dump stream files with RedENGINE"
-},
-{
 "steam": "steam:11000016166f113",
 "xbox": null,
 "license": "license:edf6f535bf662dadf30ba33be5d69b2b7f1dd113",
@@ -5229,15 +5167,6 @@
 "MachineID": "a7825164-a52f-4ad2-bb34-c8e189111957",
 "discord": "discord:1189189514057482321",
 "reason": "Internal Cheat Detected: Eulen"
-},
-{
-"steam": "steam:11000013ad6416e",
-"xbox": null,
-"license": "license:a5784b91df83cd1980eaa797e85fd467cc9135d3",
-"fivem": null,
-"MachineID": "7c3f4ebd-a7f6-403b-8243-d491d41bb621",
-"discord": "discord:574215409277075458",
-"reason": "Tried to inject a premium menu with RedENGINE (1)"
 },
 {
 "steam": "steam:11000013f30fabc",
@@ -5400,14 +5329,6 @@
 "MachineID": "26858e31-d4f5-4d6f-b1e3-9b34b79a1ee7",
 "discord": "discord:1040732164930666506",
 "reason": "Internal Cheat Detected: Eulen"
-},
-{
-"steam": "steam:110000101b21cdd",
-"xbox": null,
-"license": "license:235e7fcf3b2d756cf234bd2704a0eb69235e420f",
-"fivem": null,
-"discord": "discord:1126167598023848057",
-"reason": "Tried to inject a premium menu with RedENGINE (1)"
 },
 {
 "steam": "steam:11000011d51e066",
