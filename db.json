@@ -5973,5 +5973,23 @@
 "MachineID": "f3a53c05-3bac-4f07-9c85-bf3c26e465b1",
 "reason": "Test",
 "discord": null
+},
+  {
+  "steam": "steam:11000014748f461",
+  "xbox": "xbox:2535438824993982",
+  "license": "license:8711439927166e62bfb33414b25eada43e486d9d",
+  "fivem": null,
+  "MachineID": "2b0bf42a-4739-468b-af9c-f20a2e4eabdc",
+  "reason": "Cheat without block input [Video](https://cdn.discordapp.com/attachments/1197368800769740800/1197926162408677444/screen-recording.webm?ex=65bd0aad&is=65aa95ad&hm=059a8c46e6a645eababbfe9f4f2fb59a6ff0deb6c6de7b822efc4b0b451025ec&)",
+  "discord": "discord:806095256503713792"
+},
+{
+  "steam": "steam:11000015b94e1d2",
+  "xbox": null,
+  "license": "license:74a5ed0ef038f56c5fea4702a701294f7eb3b6e9",
+  "fivem": null,
+  "MachineID": "9d9ef600-cdea-4c76-8210-200296099002",
+  "reason": "Internal Cheat Detected: RedENGINE",
+  "discord": "discord:392633307927412737"
 }
 ]
