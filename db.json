@@ -4342,15 +4342,6 @@
   "discord": "discord:542346439120912394",
   "reason": "Tried to inject lua code with RedENGINE (1)"
 },
-    {
-  "steam": "steam:11000015b30aa82",
-  "xbox": null,
-  "license": "license:10884895e36643c11fd029bc6e16ae8e47fcf4d5",
-  "fivem": null,
-  "MachineID": "eb5e8f19-31d1-4d21-b33c-98b07ec8dca8",
-  "discord": "discord:1032334519619031050",
-  "reason": "Internal Cheat Detected: Eulen"
-},
 {
   "steam": "steam:11000014a810d6f",
   "xbox": null,
@@ -4402,15 +4393,6 @@
   "MachineID": "7e983fd4-5c0c-47dd-9caa-1de8573bbd9e",
   "discord": "discord:811522939618328587",
   "reason": "Tried to damage without holding a weapon (Spawned Weapon)"
-},
-{
-  "steam": "steam:1100001415c112e",
-  "xbox": null,
-  "license": "license:d04d71cc7b1de70c06c6e7fd4fb59d7e9b96d720",
-  "fivem": null,
-  "MachineID": "49256ad1-5c61-45a0-ad1a-8e2de13a0093",
-  "reason": "Internal Cheat Detected: Eulen",
-  "discord": "discord:1049001955994898452"
 },
 {
   "steam": "steam:11000013615701b",
