@@ -3091,15 +3091,6 @@
 "reason": "Internal Cheat Detected: Eulen"
 },
 {
-"steam": "steam:110000149d553f2",
-"xbox": null,
-"license": "license:9a34e55993bab5c7ef85744f0db908f32a4248c7",
-"fivem": null,
-"MachineID": "0a940244-c00b-4173-b5d9-3c9f871fc550",
-"discord": "discord:1010988675724750938",
-"reason": "Tried to toggle dump stream files with RedENGINE"
-},
-{
 "steam": "steam:110000110da8b16",
 "xbox": null,
 "license": "license:52df357c170108f23a013a41bbbf125ea49ce2b6",
@@ -3151,15 +3142,6 @@
 "MachineID": "3ad42e5e-1638-43db-9587-0136f38bcbc2",
 "reason": "Tried to inject lua code with RedENGINE (2)",
 "discord": "discord:974392500766769162"
-},
-{
-"steam": "steam:110000149d553f2",
-"xbox": null,
-"license": "license:9a34e55993bab5c7ef85744f0db908f32a4248c7",
-"fivem": null,
-"MachineID": "cef54c72-d7be-4044-a938-aa1e95027dd1",
-"discord": "discord:1010988675724750938",
-"reason": "Tried to dump the server with RedENGINE (1)"
 },
 {
 "steam": "steam:110000147ce9969",
@@ -4143,15 +4125,6 @@
 "MachineID": "f4d88281-5f5f-4fff-9c1b-140f324ca8ab",
 "discord": "discord:868877733340516462",
 "reason": "Cheat Detected: AI (3)"
-},
-{
-"steam": "steam:110000149d553f2",
-"xbox": null,
-"license": "license:9a34e55993bab5c7ef85744f0db908f32a4248c7",
-"fivem": null,
-"MachineID": "d4a97c75-eed1-47f8-885e-9678fee2890b",
-"reason": "AI Detected Word: set all nearby vehicles plate text [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1196104876455903364/screenshot.jpg?ex=65b66a79&is=65a3f579&hm=b9e5b2f74248ffc4a72d353c8f4fdaff0b02bee61cebca5d0423ab03bdf11fb2&)",
-"discord": "discord:1010988675724750938"
 },
 {
 "steam": null,
@@ -5778,15 +5751,6 @@
 "MachineID": "6259291b-bdf2-4da4-8c02-941f6d141fe5",
 "discord": "discord:372035410831998996",
 "reason": "Internal Cheat Detected: Eulen"
-},
-{
-"steam": "steam:110000149d553f2",
-"xbox": null,
-"license": "license:9a34e55993bab5c7ef85744f0db908f32a4248c7",
-"fivem": null,
-"MachineID": "0a940244-c00b-4173-b5d9-3c9f871fc550",
-"discord": "discord:1010988675724750938",
-"reason": "Tried to toggle dump stream files with RedENGINE"
 },
 {
 "steam": "steam:1100001366c628b",
