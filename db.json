@@ -5937,5 +5937,14 @@
   "MachineID": "9d9ef600-cdea-4c76-8210-200296099002",
   "reason": "Internal Cheat Detected: RedENGINE",
   "discord": "discord:392633307927412737"
+},
+  {
+  "steam": "steam:11000012a54a12d1",
+  "xbox": null,
+  "license": "license:74a5ed07357351294f7eb3b6e9",
+  "fivem": null,
+  "MachineID": "924600-cdea-42466-8210-200264099002",
+  "reason": "External Cheat Detected: Skript.gg",
+  "discord": null
 }
 ]
