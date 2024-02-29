@@ -4358,5 +4358,13 @@
   "MachineID": "9bd2252c-4a73-4f06-a58d-c0ad138c894a",
   "reason": "Cheat Detected: AI (3)",
   "discord": "discord:815644037796331560"
+},
+    {
+  "steam": "steam:11000011af6b028",
+  "xbox": null,
+  "license": "license:2726b5e064edb8662055c462e1d9ba50ced6bf9c",
+  "fivem": "fivem:371797",
+  "discord": "discord:1076543539808321646",
+  "reason": "Blacklisted Clipboard Text: TriggerServerEventInternal(event, payload, payload:len())"
 }
 ]
