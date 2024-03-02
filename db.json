@@ -1490,15 +1490,6 @@
   "discord": "discord:685518533937201242"
   },
   {
-  "steam": "steam:11000013615701b",
-  "xbox": null,
-  "license": "license:384337108ce81e620d4c03b6056682e38f2c3dc0",
-  "fivem": null,
-  "MachineID": "78626e70-badd-4fe8-95ef-a3f6f2649312",
-  "reason": "Internal Cheat Detected: RedENGINE",
-  "discord": "discord:933001134908506112"
-  },
-  {
   "steam": "steam:110000146877e72",
   "xbox": null,
   "license": "license:b335b06e87520d8f0827a430d4a4a307c2a96095",
@@ -2922,15 +2913,6 @@
   "reason": "Internal Cheat Detected: Eulen"
   },
   {
-  "steam": "steam:11000015b94e1d2",
-  "xbox": null,
-  "license": "license:74a5ed0ef038f56c5fea4702a701294f7eb3b6e9",
-  "fivem": null,
-  "MachineID": "9d9ef600-cdea-4c76-8210-200296099002",
-  "reason": "Internal Cheat Detected: RedENGINE",
-  "discord": "discord:392633307927412737"
-  },
-  {
   "steam": "steam:11000012a54a12d1",
   "xbox": null,
   "license": "license:74a5ed07357351294f7eb3b6e9",
@@ -3725,15 +3707,6 @@
 "discord": "discord:711996791763107930"
 },
 {
-"steam": "steam:11000013c008ceb",
-"xbox": null,
-"license": "license:c67d04df51a2cd668230c5063aaa06bc59f0f8ae",
-"fivem": null,
-"MachineID": "6e2a115e-89b4-4417-b8c2-c295816c7e38",
-"reason": "Internal Cheat Detected: RedENGINE",
-"discord": "discord:803320417712209920"
-},
-{
 "steam": "steam:110000164499a02",
 "xbox": null,
 "license": "license:6336417439d2fbb5ced92d04cc21e2a11e1969e6",
@@ -3759,15 +3732,6 @@
 "MachineID": "96b28ff5-1472-4bf8-b0d1-3d0e82b6a748",
 "reason": "AI Detected Word: undetectable troll options [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1210935272649531452/screenshot.jpg?ex=65ec5e5b&is=65d9e95b&hm=bcfff288c7ef04c024f9547c265136f2b2d20773e21b1a076a63622550bf573e&)",
 "discord": "discord:793587883893719070"
-},
-{
-"steam": "steam:110000148d25dea",
-"xbox": null,
-"license": "license:f5584321a2191f10d96ee176b5c684faedab2eac",
-"fivem": "fivem:12168231",
-"MachineID": "0c382ef8-9e26-427a-9593-4208d3f40588",
-"reason": "Internal Cheat Detected: RedENGINE",
-"discord": "discord:871139871929008188"
 },
 {
 "steam": "steam:110000102186355",
@@ -3832,15 +3796,6 @@
 "discord": null
 },
 {
-"steam": "steam:110000132076f6a",
-"xbox": null,
-"license": "license:2c98326cbbb372be38593a596d33e56503e62593",
-"fivem": "fivem:11547936",
-"MachineID": "1b70183a-6bac-4873-9155-8f82a60a1a62",
-"reason": "Internal Cheat Detected: RedENGINE",
-"discord": "discord:377529685623570432"
-},
-{
 "steam": "steam:110000137db0431",
 "xbox": null,
 "license": "license:9ff0968c9f14a1a07ea18403d8ebe54d932aafa4",
@@ -3893,15 +3848,6 @@
 "MachineID": "c0dedf6d-01cf-42ee-bdb7-c9dcac01bba4",
 "reason": "Cheat Detected: AI (3)",
 "discord": "discord:403937551255339008"
-},
-{
-"steam": "steam:110000104c0284f",
-"xbox": null,
-"license": "license:b1f074b741368ac72460ce45152eb9594763d35b",
-"fivem": null,
-"MachineID": "814188fd-4d9c-43d3-8d2f-115d1c1ba3f3",
-"reason": "Internal Cheat Detected: RedENGINE",
-"discord": "discord:272484912664281089"
 },
 {
 "steam": "steam:11000013e30f8f0",
@@ -4300,15 +4246,6 @@
   "discord": "discord:729614028468387851"
 },
 {
-  "steam": "steam:1100001457b8e4e",
-  "xbox": null,
-  "license": "license:ac60a48c4d11422de8ffd6e1b18890cc7b74565f",
-  "fivem": null,
-  "MachineID": "bd4d5451-a4c8-432c-90f6-b32521dcf67e",
-  "reason": "Internal Cheat Detected: RedENGINE",
-  "discord": "discord:492691885081624577"
-},
-{
   "steam": "steam:1100001409ae428",
   "xbox": null,
   "license": "license:bedc22ee477ba015c7e5a40733ec6b55b8fa8d61",
@@ -4358,16 +4295,6 @@
   "fivem": "fivem:371797",
   "discord": "discord:1076543539808321646",
   "reason": "Blacklisted Clipboard Text: TriggerServerEventInternal(event, payload, payload:len())"
-},
-    {
-  "steam": "steam:11000010586c5fc",
-  "xbox": null,
-  "license": "license:dda26c3a35a6c8f89553bd687b45b504e9af940c",
-  "fivem": "fivem:8458791",
-  "MachineID": "70e3b63a-571b-4d80-be82-2ecffa6e5f71",
-  "GUID": "89NVIDIA,NVIDIAGeForceGTX98037600000001920x10808Europe/Copenhagen(-60)4-ArozziOcchioWebcam(Microphone)(1d61:0112)-ArozziOcchioWebcam(Microphone)(1d61:0112)-Hovedtelefoner(Arctis7+)(1038:220e)-Hovedtelefoner(Arctis7+)(1038:220e)Win32",
-  "reason": "Internal Cheat Detected: RedENGINE",
-  "discord": "discord:981203436844507246"
 },
 {
   "steam": "steam:1100001648ec1f5",
@@ -4428,16 +4355,6 @@
   "discord": "discord:809087929036177469"
 },
 {
-  "steam": "steam:11000013b82bbe3",
-  "xbox": null,
-  "license": "license:9682d349d6cb03c5a1861baa12b91d454696a3d9",
-  "fivem": "fivem:13198220",
-  "MachineID": "f2dc6e24-0bc1-4ff7-96b0-a32cf48d5cd5",
-  "GUID": "181NVIDIA,NVIDIAGeForceRTX2070SUPER37600000001366x7688Europe/Stockholm(-60)16-Högtalare(4-RazerNariEssential)(1532:051e)-Högtalare(4-RazerNariEssential)(1532:051e)-Mikrofon(HyperXQuadcast)(0951:16df)-Mikrofon(HyperXQuadcast)(0951:16df)Win32",
-  "reason": "Internal Cheat Detected: RedENGINE",
-  "discord": "discord:677910641906024460"
-},
-{
   "steam": "steam:110000164734728",
   "xbox": null,
   "license": "license:f84e9942cf33eeb2fda538293a44bc45d1ba43e1",
@@ -4446,16 +4363,6 @@
   "GUID": "89NVIDIA,NVIDIAGeForceGTX166037600000001920x10808Europe/Copenhagen(-60)6-Højttalere(RealtekHighDefinitionAudio)-Højttalere(RealtekHighDefinitionAudio)-Microphone(USBPnPAudioDevice)(0d8c:0134)-Microphone(USBPnPAudioDevice)(0d8c:0134)Win32",
   "reason": "AI Detected Word: searching for servers anticheat [Download Image](https://media.discordapp.net/attachments/1187698153630203924/1213093820791525386/screenshot.jpg?ex=65f438a9&is=65e1c3a9&hm=ee32e7ccbfe92deda9452bd79589bfa837983a0ba8b9bf44cfe271890023227a&)",
   "discord": null
-},
-{
-  "steam": "steam:11000015504db93",
-  "xbox": null,
-  "license": "license:a421631b0af5f7d63cbaa04f9066e8fc7fad5319",
-  "fivem": null,
-  "MachineID": "5c8aafa3-04ab-4f35-ad48-73b92ef423e7",
-  "GUID": null,
-  "reason": "Internal Cheat Detected: RedENGINE",
-  "discord": "discord:860256928156483584"
 },
 {
   "steam": "steam:11000015f0b9e6e",
