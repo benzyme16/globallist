@@ -4439,5 +4439,15 @@
   "GUID": "184NVIDIA,NVIDIAGeForceGTX1650SUPER21900000001024x7688Europe/Copenhagen(-60)6-Mikrofonpåheadset(2-WirelessController)(054c:09cc)-Mikrofonpåheadset(2-WirelessController)(054c:09cc)-Standard(RealtekHighDefinitionAudio)-Øresneglpåheadset(2-WirelessController)(054c:09cc)Win32",
   "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1201890892332662804/1213489924519493662/screen-recording.webm?ex=65f5a98f&is=65e3348f&hm=d3e15612fc9f56ef8abbeebd4376c7517e4ec0927ff27d24157ac071baadb08b&)",
   "discord": "discord:541581723419410434"
+},
+    {
+  "steam": "steam:110000164859f47",
+  "xbox": null,
+  "license": "license:b9cf377fa09823168285b90eab325c7be3faed45",
+  "fivem": "fivem:8674859",
+  "MachineID": "2b0062b1-b51d-4e12-8868-10bf015dcb6b",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX165037600000001920x10808Europe/Copenhagen(-60)8-Højttalere(HighDefinitionAudioDevice)-Højttalere(HighDefinitionAudioDevice)-Microphone(HighDefinitionAudioDevice)-Microphone(HighDefinitionAudioDevice)Win32",
+  "reason": "AI Detected Word: online players options (+ Ban Evasion Detected) [Sreenshot](https://media.discordapp.net/attachments/1187698153630203924/1203141055713771591/screenshot.jpg?ex=65f4ed6c&is=65e2786c&hm=e25b131e46cdeef4a8a63e9a5bf563ac05f2056295ff621dc90fabb6cc10285b&)",
+  "discord": "discord:1213823724164222987"
 }
 ]
