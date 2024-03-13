@@ -4904,11 +4904,13 @@
   "reason": "Internal Cheat Detected: TZ Project"
 },
 {
-  "steam": null,
+  "steam": "steam:110000135f90e2b",
   "xbox": null,
-  "license": null,
+  "license": "license:df81310675953539620fc28113340866679274ec",
   "fivem": null,
-  "discord": "discord:1082021835698356324",
-  "reason": "Internal Cheat Detected: Test"
+  "MachineID": "74c597ac-0559-4c83-80d6-fb12e4491683",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX207037600000001920x10808Europe/Copenhagen(-60)6-HeadsetEarphone(2-HyperXVirtualSurroundSound)(03f0:0b92)-HeadsetEarphone(2-HyperXVirtualSurroundSound)(03f0:0b92)-HeadsetMicrophone(2-HyperXVirtualSurroundSound)(03f0:0b92)-HeadsetMicrophone(2-HyperXVirtualSurroundSound)(03f0:0b92)Win32",
+  "reason": "External Cheat Detected: TZx",
+  "discord": null
 }
 ]
