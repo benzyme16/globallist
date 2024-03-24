@@ -3235,5 +3235,15 @@
   "GUID": "89NVIDIA,NVIDIAGeForceGTX108037600000001920x10808Europe/Paris(-60)12-Microphone(4-USBAudioCODEC)(08bb:2902)-Microphone(4-USBAudioCODEC)(08bb:2902)-Speakers(4-USBAudioCODEC)(08bb:2902)-Speakers(4-USBAudioCODEC)(08bb:2902)Win32",
   "reason": "RedENGINE & Nexus",
   "discord": "discord:1121451650071142420"
+},
+    {
+  "steam": "steam:11000014937cb86",
+  "xbox": null,
+  "license": "license:d7a0bb00b735fb2ee7b1d8b58b60d94a392248e7",
+  "fivem": "fivem:8479556",
+  "MachineID": "5467ed38-bd90-4017-bb74-83199879eb2e",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX10603GB37600000001920x10808Europe/Stockholm(-60)8-Högtalare(LogitechPROXWirelessGamingHeadset)(046d:0aba)-Högtalare(LogitechPROXWirelessGamingHeadset)(046d:0aba)-Mikrofon(LogitechPROXWirelessGamingHeadset)(046d:0aba)-Mikrofon(LogitechPROXWirelessGamingHeadset)(046d:0aba)Win32",
+  "reason": "RedENGINE",
+  "discord": "discord:791652743676821505"
 }
 ]
