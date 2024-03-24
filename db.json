@@ -3225,5 +3225,15 @@
 "reason": "RedENGINE",
 "discord": "discord:1078369638011916368",
 "ip": "ip:176.5.2.28"
+},
+  {
+  "steam": "steam:110000143494485",
+  "xbox": null,
+  "license": "license:19eb6f637008d3ba4382296edf0f0cff8480e1f6",
+  "fivem": null,
+  "MachineID": "4d0e24c8-6a59-4c1e-be43-2ef5c37217f7",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX108037600000001920x10808Europe/Paris(-60)12-Microphone(4-USBAudioCODEC)(08bb:2902)-Microphone(4-USBAudioCODEC)(08bb:2902)-Speakers(4-USBAudioCODEC)(08bb:2902)-Speakers(4-USBAudioCODEC)(08bb:2902)Win32",
+  "reason": "RedENGINE & Nexus",
+  "discord": "discord:1121451650071142420"
 }
 ]
