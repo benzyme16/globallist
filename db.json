@@ -3247,5 +3247,86 @@
   "GUID": "89NVIDIA,NVIDIAGeForceGTX980Ti37600000002560x14408Europe/Stockholm(-60)6-Högtalare(HighDefinitionAudioDevice)-Högtalare(HighDefinitionAudioDevice)-Microphone(HighDefinitionAudioDevice)-Microphone(HighDefinitionAudioDevice)Win32",
   "reason": "RedENGINE",
   "discord": "discord:1204451571631398964"
+},
+  {
+  "steam": "steam:110000143494485",
+  "xbox": null,
+  "license": "license:19eb6f637008d3ba4382296edf0f0cff8480e1f6",
+  "fivem": null,
+  "MachineID": "4d0e24c8-6a59-4c1e-be43-2ef5c37217f7",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX108037600000001920x10808Europe/Paris(-60)12-Microphone(4-USBAudioCODEC)(08bb:2902)-Microphone(4-USBAudioCODEC)(08bb:2902)-Speakers(4-USBAudioCODEC)(08bb:2902)-Speakers(4-USBAudioCODEC)(08bb:2902)Win32",
+  "reason": "RedENGINE & Nexus",
+  "discord": "discord:1121451650071142420"
+},
+{
+  "steam": "steam:1100001466f6534",
+  "xbox": "xbl:2535469424066358",
+  "license": "license:87fb2d461545b2f64bda45b01eff31cd46425cad",
+  "fivem": "fivem:3491049",
+  "reason": "Eulen",
+  "discord": "discord:801095702884384768"
+},
+{
+  "steam": "steam:11000014c2a371d",
+  "xbox": "xbl:2535442924794399",
+  "license": "license:8dca0a8b9893e11682d047a36f0c1ec32dfb238b",
+  "fivem": "fivem:7188378",
+  "live": "live:1055519461824278",
+  "MachineID": "6a122e3a-ed2d-4eae-8c8d-7c7fe8a1fa57",
+  "GUID": "103NVIDIA,NVIDIAGeForceRTX306037600000001920x10808Europe/Berlin(-60)12-Mikrofon(ME6S)(0c76:8888)-Mikrofon(ME6S)(0c76:8888)-RealtekHDAudio2ndoutput(RealtekHighDefinitionAudio)-RealtekHDAudio2ndoutput(RealtekHighDefinitionAudio)Win32",
+  "reason": "Eulen",
+  "discord": "discord:725433816621121656"
+},
+{
+  "steam": "steam:110000146143e1a",
+  "xbox": "xbl:2535459168278342",
+  "license": "license:1f1d1133f25c697cde44a1c5eda126b93739ea19",
+  "fivem": "fivem:2220637",
+  "live": "live:844425896116500",
+  "reason": "Eulen",
+  "discord": "discord:698629616465608704"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:d5fe5ed83f8b4a7bc5126f2bc6edb44130cf2cdf",
+  "fivem": "fivem:10937969",
+  "reason": "Skript.gg",
+  "discord": "discord:575300225824981012",
+  "ip": "ip:178.203.196.188"
+},
+{
+  "steam": "steam:110000148691308",
+  "xbox": "xbl:2535447958628250",
+  "license": "license:1cd9556f60cc759f9a2db797b0fa8b8f36a4c24c",
+  "fivem": "fivem:2586761",
+  "reason": "Skript.gg",
+  "discord": "discord:849365377423376395"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:1f4b60741a9c963e50d788408b2176018eeeb1b0",
+  "fivem": "fivem:10377869",
+  "MachineID": "1e5cdce3-9659-44b6-8a38-5defe546ecff",
+  "GUID": "200NVIDIA,NVIDIAGeForceGTX97037600000001920x10808Europe/Berlin(-60)12-BenQGL2240(NVIDIAHighDefinitionAudio)-Lautsprecher(Realtek(R)Audio)-Mikrofon(3-FifineMicrophone)(3142:5060)-Mikrofon(3-FifineMicrophone)(3142:5060)Win32",
+  "reason": "Skript.gg",
+  "discord": "discord:734407161098010696"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:c9347b0a99656a3baeba29ec8e186e8da6b31d24",
+  "fivem": null,
+  "reason": "Skript.gg",
+  "discord": null
+},
+{
+  "steam": "steam:11000011d43433d",
+  "xbox": null,
+  "license": "license:723466ef43b7e14be4491b6747eddea82cc244ab",
+  "fivem": "fivem:6681704",
+  "reason": "RedEngine",
+  "discord": "discord:950064277589483542"
 }
 ]
