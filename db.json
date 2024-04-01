@@ -3337,5 +3337,15 @@
   "fivem": "fivem:12228413",
   "reason": "RedEngine",
   "discord": "discord:927311326584397834"
+},
+  {
+  "steam": "steam:110000112b23273",
+  "xbox": null,
+  "license": "license:f0036e986468bd4ae213909ac4b1fca039379d19",
+  "fivem": null,
+  "MachineID": "6a38be72-f649-4f94-b8e7-583bedf45c43",
+  "GUID": "89AMD,AMDRadeonRX7800XT37600000001920x10808Europe/Stockholm(-60)12-Högtalare(2-G533GamingHeadset)(046d:0a66)-Högtalare(2-G533GamingHeadset)(046d:0a66)-Mikrofon(2-G533GamingHeadset)(046d:0a66)-Mikrofon(2-G533GamingHeadset)(046d:0a66)Win32",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1195789424806608936/1223232961655345202/screen-recording.webm?ex=66191b78&is=6606a678&hm=b1c5738c7b2a21ad43e02b5d66fd75d6939099a5c92b7f4760833cbca93a066d&)",
+  "discord": "discord:762419170347974706"
 }
 ]
