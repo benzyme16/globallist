@@ -3320,5 +3320,14 @@
   "reason": "Cheating",
   "discord": "discord:1000575522050420827",
   "ip": "ip:85.227.203.222"
+},
+    {
+  "steam": "steam:11000015c40600c",
+  "license": "license:efcf67a5f74ee45014f7b78d06b3b2e8a8e620ea",
+  "MachineID": "99dcd449-509c-4102-9c63-bfae762418de",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX207037600000001920x10808Europe/Copenhagen(-120)6-HeadsetEarphone(2-HyperXVirtualSurroundSound)(03f0:0b92)-HeadsetEarphone(2-HyperXVirtualSurroundSound)(03f0:0b92)-HeadsetMicrophone(2-HyperXVirtualSurroundSound)(03f0:0b92)-Microphone(HyperXQuadcast)(0951:16df)Win32",
+  "reason": "Cheating",
+  "discord": "discord:1187108996956561422",
+  "ip": null
 }
 ]
