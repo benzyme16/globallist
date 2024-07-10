@@ -3567,5 +3567,24 @@
   "discord": "discord:860582045394796564",
   "GUID": "89NVIDIA,NVIDIAGeForceGTX108037600000001920x10808America/Los_Angeles(420)12-Microphone(LogitechG733GamingHeadset)(046d:0ab5)-Microphone(LogitechG733GamingHeadset)(046d:0ab5)-Speakers(LogitechG733GamingHeadset)(046d:0ab5)-Speakers(LogitechG733GamingHeadset)(046d:0ab5)Win32",
   "reason": "Menu Detected: Dopamine"
+},
+{
+  "steam": "steam:110000143434299",
+  "xbox": null,
+  "license": "license:d7e7ed5d27266b4be9e772e7008c68cd8aa3bc08",
+  "discord": "discord:1000575522050420827",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX10603GB37600000001180x10428Europe/Stockholm(-120)8-Högtalare(HyperXQuadcast)(0951:16df)-Högtalare(HyperXQuadcast)(0951:16df)-Microphone(HyperXQuadcast)(0951:16df)-Microphone(HyperXQuadcast)(0951:16df)Win32",
+  "reason": "Cheat Detected: TZ Project",
+  "ip": "ip:85.227.203.222"
+},
+{
+  "steam": "steam:110000165fc5a4d",
+  "xbox": null,
+  "license": "license:535ce7b128edf575ebd123698a3983a5df950dc6",
+  "discord": "discord:882253822251106344",
+  "fivem": "fivem:12580150",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX406037600000001920x10808Europe/Berlin(-120)16-Lautsprecher(LogitechG635/G633sGamingHeadset)(046d:0a89)-Lautsprecher(LogitechG635/G633sGamingHeadset)(046d:0a89)-Microphone(LogitechG635/G633sGamingHeadset)(046d:0a89)-Microphone(LogitechG635/G633sGamingHeadset)(046d:0a89)Win32",
+  "reason": "Cheat Detected: TZ Project",
+  "ip": "ip:84.115.233.165"
 }
 ]
