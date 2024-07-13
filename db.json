@@ -3470,6 +3470,16 @@
   "reason": "Cheat Detected: AI (3)"
 },
 {
+  "steam": "steam:11000016a257fac",
+  "xbox": null,
+  "license": "license:33d919ee1d71aebebe5cbe91b2dbcf0a5a9f5fac",
+  "discord": "discord:1261675764516917309",
+  "ip": "ip:217.255.124.77",
+  "MachineID": "9da411c1-8fff-4d81-9c7f-82078487fa43",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX108037600000002560x14408Europe/Berlin(-120)12-Headphones(HighDefinitionAudioDevice)-Headphones(HighDefinitionAudioDevice)-Line(RODEAI-1)(19f7:000a)-Line(RODEAI-1)(19f7:000a)Win32",
+  "reason": "Cheat Detected: AI (3) (Attempted to ban evade)"
+},
+{
   "steam": "steam:11000010fad2fd4",
   "xbox": null,
   "license": "license:8a24fcc608c89f291ed0b86371fda44a49f1593c",
