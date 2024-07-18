@@ -3570,6 +3570,15 @@
   "reason": "Menu Detected: HydroMenu"
 },
 {
+  "steam": "steam:110000169d32534",
+  "xbox": null,
+  "license": "license:76ef2e035f35352809277ae9a9525887bea8bec5",
+  "discord": "discord:746781892002578432",
+  "ip": "ip:45.129.56.152",
+  "GUID": "90NVIDIA,NVIDIAGeForceRTX406037600000001920x10808Europe/Stockholm(-120)12-Hörlurar(3-HighDefinitionAudioDevice)-Hörlurar(3-HighDefinitionAudioDevice)-Mikrofon(3-HighDefinitionAudioDevice)-Mikrofon(BlueSnowball)(046d:0ab9)Win32",
+  "reason": "Menu Detected: HydroMenu (Tried to ban evade)"
+},
+{
   "steam": "steam:11000011b1514c1",
   "xbox": null,
   "license": "license:265d2a7f3222e0a4dc578ff98bbefa6e6c87338b",
