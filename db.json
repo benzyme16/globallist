@@ -3605,5 +3605,12 @@
   "GUID": "89NVIDIA,NVIDIAGeForceRTX406037600000001920x10808Europe/Berlin(-120)16-Lautsprecher(LogitechG635/G633sGamingHeadset)(046d:0a89)-Lautsprecher(LogitechG635/G633sGamingHeadset)(046d:0a89)-Microphone(LogitechG635/G633sGamingHeadset)(046d:0a89)-Microphone(LogitechG635/G633sGamingHeadset)(046d:0a89)Win32",
   "reason": "Cheat Detected: TZ Project",
   "ip": "ip:84.115.233.165"
+},
+{
+  "steam": "steam:11035740600c",
+  "xbox": null,
+  "license": "license:efcf67a5f74ee45014f7b78d06b3b2e8a8e620ea",
+  "discord": null,
+  "reason": "Test"
 }
 ]
