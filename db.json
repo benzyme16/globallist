@@ -3612,5 +3612,25 @@
   "license": "license:efcf67a5f74ee45014f7b78d06b3b2e8a8e620ea",
   "discord": null,
   "reason": "Test"
+},
+{
+  "steam": "steam:11000014bbc7dc2",
+  "xbox": null,
+  "license": "license:cc6609b1b0091ac8ecc72511e293186368eb9fdd",
+  "fivem": "fivem:11028836",
+  "MachineID": "29983539-3aab-488c-8f81-5268ec25fb4d",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX406037600000001920x10808Europe/Copenhagen(-120)16-Hovedtelefoner(NOSX500)(0a67:c001)-Hovedtelefoner(NOSX500)(0a67:c001)-Mikrofon(VoicemodVirtualAudioDevice(WDM))-Mikrofon(VoicemodVirtualAudioDevice(WDM))Win32",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1212015870679720008/1266882459753123840/screen-recording.webm?ex=66a76c7b&is=66a61afb&hm=cd782304faf0fc037a8d422bab7e3e032f61f200707a2ae6f40926fd0e3aaae2&)",
+  "discord": "discord:1114583897632669726"
+},
+{
+  "steam": "steam:1100001453ef476",
+  "xbox": "xbox:2535419996359639",
+  "license": "license:4b34cd8d480205ef1ae661802e0a8b74ceb664a7",
+  "fivem": "fivem:10538704",
+  "MachineID": "8a474845-5de8-4fdf-8233-2a7f62f0754e",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX10606GB37600000001920x10808Europe/Copenhagen(-120)12-SteelSeriesSonar-Chat(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Media(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)Win32",
+  "reason": "Aimbot Detected [Download Video](https://cdn.discordapp.com/attachments/1212015870679720008/1266756779836968970/screen-recording.webm?ex=66a6f76f&is=66a5a5ef&hm=5b20248c3e82b1fe7382070923117ae41f9af0cb0d6d49d437467afba4f46fe0&)",
+  "discord": "discord:686209394303828007"
 }
 ]
