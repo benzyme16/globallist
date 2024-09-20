@@ -3653,5 +3653,35 @@
   "GUID": "89NVIDIA,NVIDIAGeForceGTX1050Ti21900000001920x10808Europe/Stockholm(-120)4-Högtalare(HyperXDuoCast)(03f0:0a8c)-Högtalare(RealtekHighDefinitionAudio)-Mikrofon(HyperXDuoCast)(03f0:0a8c)-Mikrofon(HyperXDuoCast)(03f0:0a8c)Win32",
   "reason": "Internal Cheat Detected: RedENGINE",
   "discord": "discord:1268301286655393804"
+},
+  {
+  "steam": "steam:11000016c79cfed",
+  "xbox": null,
+  "license": "license:3fef1837e8770a979ad2cf33c7ecf47c4bdf04b7",
+  "fivem": null,
+  "MachineID": "dccc8649-421a-45a8-a444-db850e1fa192",
+  "GUID": "90NVIDIA,NVIDIAGeForceGTX10606GB37600000002560x14408Europe/Stockholm(-120)4-Högtalare(HyperXCloudStingerS)(0951:1715)-Hörlurar(OculusVirtualAudioDevice)-Mikrofon(HyperXCloudStingerS)(0951:1715)-Mikrofon(HyperXCloudStingerS)(0951:1715)Win32",
+  "reason": "Blacklisted Clipboard Text: TriggerServerEvent('brotex_atm:payout')",
+  "discord": "discord:1285249626341118115"
+},
+{
+  "steam": "steam:110000148f65416",
+  "xbox": null,
+  "license": "license:748ce8a6bed692307fc7caee307d3f0ad10fde6c",
+  "fivem": "fivem:15141115",
+  "MachineID": "f310f025-6fb4-4a2d-aaf8-a06b8d446de4",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX207037600000001920x10808Europe/Stockholm(-120)6-Hörlurar(SteelSeriesArctis9Game)(1038:12c4)-Microphone(TrustUSBmicrophone)(0d8c:0005)-SteelSeriesSonar-Chat(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)Win32",
+  "reason": "Blacklisted Clipboard Text: PlayerPedId()), 10.0)",
+  "discord": "discord:621885964389842964"
+},
+{
+  "steam": "steam:110000163990ae6",
+  "xbox": null,
+  "license": "license:fff867c547975e29d28694a9a3f0adb908da89c8",
+  "fivem": "fivem:13185516",
+  "MachineID": "3cd27047-362e-442c-b1cb-7eec486f100b",
+  "GUID": "90NVIDIA,NVIDIAGeForceRTX406037600000002560x14408Europe/Helsinki(-180)16-Kuulokkeet(Realtek(R)Audio)-Kuulokkeet(Realtek(R)Audio)-Mikrofoni(Realtek(R)Audio)-Mikrofoni(Realtek(R)Audio)Win32",
+  "reason": "Blacklisted Clipboard Text: C:/Users/Klaus/Downloads/dump",
+  "discord": "discord:752853028373266523"
 }
 ]
