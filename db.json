@@ -3683,5 +3683,125 @@
   "GUID": "90NVIDIA,NVIDIAGeForceRTX406037600000002560x14408Europe/Helsinki(-180)16-Kuulokkeet(Realtek(R)Audio)-Kuulokkeet(Realtek(R)Audio)-Mikrofoni(Realtek(R)Audio)-Mikrofoni(Realtek(R)Audio)Win32",
   "reason": "Blacklisted Clipboard Text: C:/Users/Klaus/Downloads/dump",
   "discord": "discord:752853028373266523"
+},
+  {
+  "steam": "steam:11000015c6fced7",
+  "xbox": null,
+  "license": "license:e4c4b65f9ab048a0c35a4e80d8c4791fe32c39cc",
+  "fivem": null,
+  "MachineID": "cf05feff-28d0-4e99-9005-2d3af77576bf",
+  "GUID": "89AMD,RadeonRX570Series37600000001760x9908Europe/Copenhagen(-120)12-Mikrofonpåheadset(2-HyperXVirtualSurroundSound)(03f0:0b92)-Mikrofonpåheadset(2-HyperXVirtualSurroundSound)(03f0:0b92)-Øresneglpåheadset(2-HyperXVirtualSurroundSound)(03f0:0b92)-Øresneglpåheadset(2-HyperXVirtualSurroundSound)(03f0:0b92)Win32",
+  "reason": "Aimbot Detected",
+  "discord": "discord:836195859191431218"
+},
+{
+  "steam": "steam:110000147d58b80",
+  "xbox": null,
+  "license": "license:14cf2afd2a6801b5d400518992f162a686834557",
+  "fivem": null,
+  "MachineID": "81b3decc-4692-4ca7-900b-3e215a95bc3f",
+  "GUID": "97NVIDIA,NVIDIAGeForceRTX3070Ti37600000001920x10808Europe/Copenhagen(-120)12-Højttalere(HyperXQuadCastS)(03f0:0d8b)-Højttalere(HyperXQuadCastS)(03f0:0d8b)-Mikrofon(HDProWebcamC920)(046d:082d)-Mikrofon(HDProWebcamC920)(046d:082d)Win32",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:699262105290801172"
+},
+{
+  "steam": "steam:1100001121e14fc",
+  "xbox": null,
+  "license": "license:27b2d83354d610d69b82c47aa31da3c57d4398c5",
+  "fivem": "fivem:3059349",
+  "MachineID": "21004613-6bbe-40b7-a6ba-98f26301fcc5",
+  "GUID": "179AMD,AMDRadeonRX570037600000001920x10808Europe/Berlin(-120)12-2-27G2G3(AMDHighDefinitionAudioDevice)-Højttalere(PRO)(046d:0aa7)-Mikrofon(RealtekAudioUSB)(0bda:4938)-Mikrofon(RealtekAudioUSB)(0bda:4938)Win32",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:328820887476240386"
+},
+{
+  "steam": "steam:11000015b075ae7",
+  "xbox": null,
+  "license": "license:744e0da4442a7ae6d5299d051d3b181edd64921a",
+  "fivem": null,
+  "MachineID": "e8771543-3ec4-40e6-bcfa-edb1dbd847b7",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX2070SUPER37600000001920x10808Europe/Copenhagen(-120)8-Hovedtelefoner(2-Arctis7P+)(1038:2212)-Hovedtelefoner(2-Arctis7P+)(1038:2212)-Mikrofon(2-Arctis7P+)(1038:2212)-Mikrofon(2-Arctis7P+)(1038:2212)Win32",
+  "reason": "Menu Detected: Dopamine [Download Image](https://media.discordapp.net/attachments/1212015870679720008/1297969548112171090/screenshot.jpg?ex=67192d57&is=6717dbd7&hm=145524b87ccb14aec7b75314c9c15a1a095911004f2c96edec0a7fc5073f7636&)",
+  "discord": "discord:1255983447453732987"
+},
+{
+  "steam": "steam:11000013ec649b2",
+  "xbox": null,
+  "license": "license:dc6daea77600a095d1142af5157126bae45f15e9",
+  "fivem": null,
+  "MachineID": "02fc1c0c-4d49-4430-8789-a48f868d8642",
+  "GUID": "109NVIDIA,NVIDIAGeForceGTX165037600000001920x10808Europe/Copenhagen(-120)12-Mikrofon(NOSX500)(0a67:c001)-Mikrofon(NOSX500)(0a67:c001)-RealtekHDAudio2ndoutput(2-Realtek(R)Audio)-RealtekHDAudio2ndoutput(2-Realtek(R)Audio)Win32",
+  "reason": "Tried to give weapons [Download Image](https://media.discordapp.net/attachments/1212015870679720008/1297959942938169344/screenshot.jpg?ex=67192465&is=6717d2e5&hm=e38f8aefaee4a55426714f2864c5d189e9ec3db5dc0748611a39c994c1e53ec4&)",
+  "discord": "discord:689886980799987752"
+},
+{
+  "steam": "steam:11000013e150361",
+  "xbox": null,
+  "license": "license:cb652e2868d2f3bb5bd6b2d439f9dfd94e8c0df5",
+  "fivem": null,
+  "MachineID": "1125f5e6-1691-4286-a7c3-b09488310177",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX306037600000001920x10808Europe/Copenhagen(-120)12-Headphones(SteelSeriesArctisProGame)(1038:1252)-HeadsetEarphone(SteelSeriesArctisProChat)(1038:1252)-Microphone(SteelSeriesArctisProChat)(1038:1252)-Microphone(SteelSeriesArctisProChat)(1038:1252)Win32",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:1251840953740689418"
+},
+{
+  "steam": "steam:1100001606df0db",
+  "xbox": "xbox:2535441625574209",
+  "license": "license:048c4db0ebd538b1bd79ade7bb86d9642df574c2",
+  "fivem": "fivem:14560794",
+  "MachineID": "f5b112ec-da14-41f3-8cda-b5c10be61863",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX4060Ti37600000001440x10808Europe/Copenhagen(-120)16-SteelSeriesSonar-Chat(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Gaming(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)Win32",
+  "reason": "Aimbot Detected",
+  "discord": "discord:1052676854269612064"
+},
+{
+  "steam": "steam:11000013ec2dd44",
+  "xbox": null,
+  "license": "license:c80b69d18d77a2e69ea7903f0ac8007f5a7ea30e",
+  "fivem": null,
+  "MachineID": "d7c0b4f3-d7e9-4272-afc6-72415a3cc299",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX165021900000001920x10808Europe/Copenhagen(-120)4-Hovedtelefoner(4-Arctis7+)(1038:220e)-Hovedtelefoner(4-Arctis7+)(1038:220e)-Mikrofon(4-Arctis7+)(1038:220e)-Mikrofon(4-Arctis7+)(1038:220e)Win32",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:680289836930039816"
+},
+{
+  "steam": "steam:11000014d6d6cf5",
+  "xbox": null,
+  "license": "license:7b5127f3f63d1c2c5a3151ea218884789fcf9ce7",
+  "fivem": "fivem:11948314",
+  "MachineID": "a265a0bd-7d6e-4662-8b67-ec492d7afd34",
+  "GUID": "182NVIDIA,NVIDIAGeForceGTX1660SUPER37600000001920x10808Europe/Copenhagen(-120)6-Hovedtelefoner(3-ATR2500x-USBMicrophone)(0909:004e)-Mikrofon(3-ATR2500x-USBMicrophone)(0909:004e)-Mikrofon(SteamStreamingMicrophone)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)Win32",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:1055124507385405511"
+},
+{
+  "steam": "steam:11000014bb681d8",
+  "xbox": null,
+  "license": "license:dd0921272a4f6e7eee5a314586fe2043915fc3cc",
+  "fivem": null,
+  "MachineID": "6c7e65f5-087f-4150-9d0c-83a84b536c4a",
+  "GUID": "90NVIDIA,NVIDIAGeForceRTX407037600000001920x10808Europe/Copenhagen(-120)16-Hovedtelefoner(HighDefinitionAudioDevice)-Hovedtelefoner(HighDefinitionAudioDevice)-Mikrofon(HyperXQuadcast)(0951:16df)-Mikrofon(HyperXQuadcast)(0951:16df)Win32",
+  "reason": "Aimbot Detected",
+  "discord": "discord:820672261593759794"
+},
+{
+  "steam": "steam:11000015c76616e",
+  "xbox": null,
+  "license": "license:03abf3e2c5b0ea219c9657609f3065a844720d6a",
+  "fivem": null,
+  "MachineID": "922390f3-4bf5-4fad-bcfe-3554e0b692f4",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX206037600000001920x10808Europe/Copenhagen(-120)8-C27ATILIUS(NVIDIAHighDefinitionAudio)-Højttalere(Realtek(R)Audio)-Mikrofon(VoicemodVirtualAudioDevice(WDM))-Mikrofon(VoicemodVirtualAudioDevice(WDM))Win32",
+  "reason": "Aimbot Detected",
+  "discord": "discord:1297246706164830239"
+},
+{
+  "steam": "steam:11000015efc20a3",
+  "xbox": null,
+  "license": "license:86620a27317cd5ea5b81dd1cac2dff1e0eb3c6e3",
+  "fivem": null,
+  "MachineID": "b03b5d40-e136-472c-b4ef-c429c1266ca9",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX407037600000001920x10808Europe/Copenhagen(-120)16-25G3ZM(NVIDIAHighDefinitionAudio)-Hovedtelefoner(SteelSeriesArctis9Game)(1038:12c4)-Mikrofon(SteelSeriesArctis9Chat)(1038:12c4)-Mikrofon(SteelSeriesArctis9Chat)(1038:12c4)Win32",
+  "reason": "Cheat Detected: AI (3)",
+  "discord": "discord:945298683530985512"
 }
 ]
