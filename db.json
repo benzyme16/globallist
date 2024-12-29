@@ -3822,5 +3822,15 @@
   "GUID": "89NVIDIA,NVIDIAGeForceRTX406037600000001920x10808Europe/Stockholm(-60)16-Microphone(LogitechG733GamingHeadset)(046d:0afe)-Microphone(LogitechG733GamingHeadset)(046d:0afe)-Speakers(LogitechG733GamingHeadset)(046d:0afe)-Speakers(LogitechG733GamingHeadset)(046d:0afe)Win32",
   "reason": "Internal Or External Menu Detected",
   "discord": "discord:846074923701108747"
+},
+  {
+  "steam": "steam:11000016d1f0a57",
+  "xbox": null,
+  "license": "license:87d10041761e096122329ff02b5e6fb6ade0c3b7",
+  "fivem": null,
+  "MachineID": "e36cd33c-7e3d-4c38-a70f-1a3b48b0ef65",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX307037600000001720x10808America/Los_Angeles(480)16-Microphone(VoicemodVirtualAudioDevice(WDM))-Microphone(VoicemodVirtualAudioDevice(WDM))-SteelSeriesSonar-Chat(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Gaming(SteelSeriesSonarVirtualAudioDevice)Win32",
+  "reason": "Internal Or External Menu Detected",
+  "discord": "discord:1314991209323696204"
 }
 ]
