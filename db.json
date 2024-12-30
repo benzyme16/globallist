@@ -3922,5 +3922,15 @@
   "GUID": "89NVIDIA,NVIDIAGeForceRTX306037600000001920x10808Europe/Stockholm(-60)12-Högtalare(G733GamingHeadset)(046d:0ab5)-Högtalare(G733GamingHeadset)(046d:0ab5)-Microphone(G733GamingHeadset)(046d:0ab5)-Microphone(G733GamingHeadset)(046d:0ab5)Win32",
   "reason": "Blacklisted Explosion: 29",
   "discord": "discord:1308806527968350242"
+},
+  {
+  "steam": "steam:110000165fcbcb3",
+  "xbox": null,
+  "license": "license:60df818386eb9fcbfd3dd8cb27c467ba429f416f",
+  "fivem": null,
+  "MachineID": "3e68e9e7-9281-4fdc-a967-e1e5cc3e3a73",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX10606GB37600000001920x10808Europe/Stockholm(-60)8-Hörlurarpåheadset(G435WirelessGamingHeadset)(046d:0acb)-Hörlurarpåheadset(G435WirelessGamingHeadset)(046d:0acb)-Mikrofon(G435WirelessGamingHeadset)(046d:0acb)-Mikrofon(G435WirelessGamingHeadset)(046d:0acb)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:1265047388754542664"
 }
 ]
