@@ -3832,5 +3832,95 @@
   "GUID": "89NVIDIA,NVIDIAGeForceRTX307037600000001720x10808America/Los_Angeles(480)16-Microphone(VoicemodVirtualAudioDevice(WDM))-Microphone(VoicemodVirtualAudioDevice(WDM))-SteelSeriesSonar-Chat(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Gaming(SteelSeriesSonarVirtualAudioDevice)Win32",
   "reason": "Internal Or External Menu Detected",
   "discord": "discord:1314991209323696204"
+},
+{
+  "steam": "steam:110000145a71557",
+  "xbox": null,
+  "license": "license:9c2c8f1f121e661074a19f3e7d7ca6388308efd8",
+  "fivem": null,
+  "MachineID": "259c7e63-bbaa-4c41-8ab7-383e41f6c587",
+  "GUID": "179NVIDIA,NVIDIAGeForceRTX206037600000001920x10808Europe/Stockholm(-60)12-24G2WG3-(NVIDIAHighDefinitionAudio)-Mikrofon(TrustUSBmicrophone)(145f:02b4)-Speakers(Realtek(R)Audio)-StereoMix(Realtek(R)Audio)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:792875537282498610"
+},
+{
+  "steam": "steam:1100001151b4d89",
+  "xbox": null,
+  "license": "license:a491ffdd1b75154ce3644b299d93383457a1e75c",
+  "fivem": null,
+  "MachineID": "25bf125c-6b93-489f-9593-50f9200c373c",
+  "GUID": "182NVIDIA,NVIDIAGeForceRTX3080Ti37600000002560x14408Europe/Copenhagen(-60)8-HeadsetEarphone(Arctis5Chat)(1038:12aa)-Microphone(VoicemodVirtualAudioDevice(WDM))-Microphone(VoicemodVirtualAudioDevice(WDM))-ROGPG279Q(NVIDIAHighDefinitionAudio)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:259961360899768322"
+},
+{
+  "steam": "steam:1100001175b20da",
+  "xbox": null,
+  "license": "license:65a421ef03894aae0cfcfd48409a3900307ea94e",
+  "fivem": null,
+  "MachineID": "2b4802ce-aeaa-4938-abc7-53d8fac25e1e",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX10606GB37600000001920x10808Europe/Copenhagen(-60)6-Højttalere(2-LogitechPROXWirelessGamingHeadset)(046d:0aba)-Højttalere(2-LogitechPROXWirelessGamingHeadset)(046d:0aba)-Mikrofon(2-LogitechPROXWirelessGamingHeadset)(046d:0aba)-Mikrofon(2-LogitechPROXWirelessGamingHeadset)(046d:0aba)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:467059052149604363"
+},
+{
+  "steam": "steam:11000011393812c",
+  "xbox": null,
+  "license": "license:ec507aa495be654481d3dae3a95723319730889a",
+  "fivem": null,
+  "MachineID": "fb2f822c-5849-4052-aa83-443a910a911a",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX206037600000001920x10808Europe/Copenhagen(-60)6-Hovedtelefoner(4-Arctis7Game)(1038:12ad)-Mikrofonpåheadset(4-Arctis7Chat)(1038:12ad)-Mikrofonpåheadset(4-Arctis7Chat)(1038:12ad)-Øresneglpåheadset(4-Arctis7Chat)(1038:12ad)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:746427805411049613"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:464cb49c9c9963d7100edddcb02b954c23a450ef",
+  "fivem": null,
+  "MachineID": "418ff37e-51bd-4257-977d-7ef466003647",
+  "GUID": "181NVIDIA,NVIDIAGeForceRTX305037600000001920x10808Europe/Stockholm(-60)12-Microphone(Realtek(R)Audio)-Microphone(Realtek(R)Audio)-Speakers(Realtek(R)Audio)-Speakers(Realtek(R)Audio)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:1259520870234194035"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:8a52827bc0db59ad84130188a4b8e74fca585e8c",
+  "fivem": null,
+  "MachineID": "4fd24fa9-701c-41e2-9d5b-f4737fb863af",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX406037600000001920x10808Europe/Stockholm(-60)12-Headphones(HighDefinitionAudioDevice)-Headphones(streamplifyMic.)(0a67:d017)-Microphone(streamplifyMic.)(0a67:d017)-Microphone(streamplifyMic.)(0a67:d017)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:1207434244058783744"
+},
+{
+  "steam": null,
+  "xbox": null,
+  "license": "license:3a3be2cf1d4b4a3ead812496caa1d262d7ac7810",
+  "fivem": null,
+  "MachineID": "776bd1ed-f842-4ebf-85a6-bb53df563571",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX206037600000001440x10808Europe/Stockholm(-60)12-Högtalare(2-LogitechG733GamingHeadset)(046d:0ab5)-Mikrofon(3-USBAudioCODEC)(08bb:2902)-SteelSeriesSonar-Chat(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:1001629203747319869"
+},
+{
+  "steam": "steam:110000135073caf",
+  "xbox": null,
+  "license": "license:8dfda2970a57fe9654e1ec84f5d73711d7fb3b2e",
+  "fivem": null,
+  "MachineID": "c1f25039-5620-4223-adf0-fe49570645e9",
+  "GUID": "89NVIDIA,NVIDIAGeForceGTX10606GB37600000001920x10808Europe/Stockholm(-60)8-HeadsetEarphone(CORSAIRHS70PROWirelessGamingHeadset)(1b1c:0a4f)-HeadsetEarphone(CORSAIRHS70PROWirelessGamingHeadset)(1b1c:0a4f)-HeadsetMicrophone(CORSAIRHS70PROWirelessGamingHeadset)(1b1c:0a4f)-HeadsetMicrophone(CORSAIRHS70PROWirelessGamingHeadset)(1b1c:0a4f)Win32",
+  "reason": "Possible Cheat Menu",
+  "discord": "discord:241644802326659073"
+},
+{
+  "steam": "steam:11000013ec0bf61",
+  "xbox": null,
+  "license": "license:205a8c00ec2a49e0b9281ce8ca7977abd3641406",
+  "fivem": null,
+  "MachineID": "900f09d9-8ed7-4074-b61f-d87a89d0e12c",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX306037600000001920x10808Europe/Stockholm(-60)12-Högtalare(G733GamingHeadset)(046d:0ab5)-Högtalare(G733GamingHeadset)(046d:0ab5)-Microphone(G733GamingHeadset)(046d:0ab5)-Microphone(G733GamingHeadset)(046d:0ab5)Win32",
+  "reason": "Blacklisted Explosion: 29",
+  "discord": "discord:1308806527968350242"
 }
 ]
