@@ -3932,5 +3932,15 @@
   "GUID": "89NVIDIA,NVIDIAGeForceGTX10606GB37600000001920x10808Europe/Stockholm(-60)8-Hörlurarpåheadset(G435WirelessGamingHeadset)(046d:0acb)-Hörlurarpåheadset(G435WirelessGamingHeadset)(046d:0acb)-Mikrofon(G435WirelessGamingHeadset)(046d:0acb)-Mikrofon(G435WirelessGamingHeadset)(046d:0acb)Win32",
   "reason": "Possible Cheat Menu",
   "discord": "discord:1265047388754542664"
+},
+  {
+  "steam": "steam:1100001332cb05f",
+  "xbox": null,
+  "license": "license:f8b6fb55445e097cc25aa52265043b1386d4ea39",
+  "fivem": null,
+  "MachineID": "de1c5808-52b6-499d-b147-e0a675de8a28",
+  "GUID": "89NVIDIA,NVIDIAGeForceRTX3060Ti37600000001920x10808Europe/Stockholm(-60)12-Headphones(Arctis7+)(1038:220e)-Headphones(Arctis7+)(1038:220e)-Microphone(Arctis7+)(1038:220e)-Microphone(Arctis7+)(1038:220e)Win32",
+  "reason": "TZ Project",
+  "discord": null
 }
 ]
