@@ -3962,5 +3962,15 @@
   "GUID": "89NVIDIA,NVIDIAGeForceRTX307037600000001920x10808Europe/Copenhagen(-60)12-Mikrofon(IriunWebcam)-Mikrofon(IriunWebcam)-OdysseyG65B(NVIDIAHighDefinitionAudio)-Øresneglpåheadset(4-ArctisProWirelessChat)(1038:1294)Win32",
   "reason": "Possible Cheat Menu",
   "discord": "discord:883671811861118987"
+},
+  {
+  "steam": null,
+  "xbox": null,
+  "license": "license:1c35c456772be5eeb879197225bfd7c6bf53afc3",
+  "fivem": null,
+  "MachineID": "72a0dc89-0eca-49fa-991b-2272815c9a8e",
+  "GUID": "179NVIDIA,NVIDIAGeForceRTX4050LaptopGPU21900000002560x14408Europe/Stockholm(-60)12-HeadsetEarphone(Arctis5Chat)(1038:12aa)-SteelSeriesSonar-Chat(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)-SteelSeriesSonar-Microphone(SteelSeriesSonarVirtualAudioDevice)Win32",
+  "reason": "External Cheat Detected: TZx",
+  "discord": "discord:1225121725000192050"
 }
 ]
